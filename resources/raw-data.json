@@ -1,0 +1,2551 @@
+[
+  {
+    "id": 394568,
+    "date": 1673568000,
+    "game": {
+      "id": 114009,
+      "cover": {
+        "id": 120178,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2kqa.jpg"
+      },
+      "name": "Dragon Ball Z: Kakarot",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Jan 13, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 394569,
+    "date": 1673568000,
+    "game": {
+      "id": 114009,
+      "cover": {
+        "id": 120178,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2kqa.jpg"
+      },
+      "name": "Dragon Ball Z: Kakarot",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Jan 13, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 371293,
+    "date": 1674518400,
+    "game": {
+      "id": 134583,
+      "cover": {
+        "id": 225747,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4u6r.jpg"
+      },
+      "name": "Forspoken",
+      "platforms": [
+        6,
+        167
+      ]
+    },
+    "human": "Jan 24, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 371294,
+    "date": 1674518400,
+    "game": {
+      "id": 134583,
+      "cover": {
+        "id": 225747,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4u6r.jpg"
+      },
+      "name": "Forspoken",
+      "platforms": [
+        6,
+        167
+      ]
+    },
+    "human": "Jan 24, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 358819,
+    "date": 1674777600,
+    "game": {
+      "id": 159119,
+      "cover": {
+        "id": 252455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5esn.jpg"
+      },
+      "name": "Dead Space",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Jan 27, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 358820,
+    "date": 1674777600,
+    "game": {
+      "id": 159119,
+      "cover": {
+        "id": 252455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5esn.jpg"
+      },
+      "name": "Dead Space",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Jan 27, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 417878,
+    "date": 1674777600,
+    "game": {
+      "id": 159119,
+      "cover": {
+        "id": 252455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5esn.jpg"
+      },
+      "name": "Dead Space",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Jan 27, 2023",
+    "m": 1,
+    "y": 2023
+  },
+  {
+    "id": 379734,
+    "date": 1675987200,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 10, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 379735,
+    "date": 1675987200,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 10, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 379736,
+    "date": 1675987200,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 10, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 427930,
+    "date": 1676592000,
+    "game": {
+      "id": 107233,
+      "cover": {
+        "id": 273348,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ux0.jpg"
+      },
+      "name": "The Settlers: New Allies",
+      "platforms": [
+        6,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 17, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 416682,
+    "date": 1676937600,
+    "game": {
+      "id": 76747,
+      "cover": {
+        "id": 267462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qdi.jpg"
+      },
+      "name": "Atomic Heart",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 21, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 416683,
+    "date": 1676937600,
+    "game": {
+      "id": 76747,
+      "cover": {
+        "id": 267462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qdi.jpg"
+      },
+      "name": "Atomic Heart",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 21, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 416684,
+    "date": 1676937600,
+    "game": {
+      "id": 76747,
+      "cover": {
+        "id": 267462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qdi.jpg"
+      },
+      "name": "Atomic Heart",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 21, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 416685,
+    "date": 1676937600,
+    "game": {
+      "id": 76747,
+      "cover": {
+        "id": 267462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qdi.jpg"
+      },
+      "name": "Atomic Heart",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 21, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 416686,
+    "date": 1676937600,
+    "game": {
+      "id": 76747,
+      "cover": {
+        "id": 267462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qdi.jpg"
+      },
+      "name": "Atomic Heart",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Feb 21, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 385155,
+    "date": 1677110400,
+    "game": {
+      "id": 127346,
+      "cover": {
+        "id": 87015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v53.jpg"
+      },
+      "name": "Sons of the Forest",
+      "platforms": [
+        6
+      ]
+    },
+    "human": "Feb 23, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 398512,
+    "date": 1677196800,
+    "game": {
+      "id": 121759,
+      "cover": {
+        "id": 131254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2t9y.jpg"
+      },
+      "name": "Kerbal Space Program 2",
+      "platforms": [
+        6,
+        48,
+        49
+      ]
+    },
+    "human": "Feb 24, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 398513,
+    "date": 1677196800,
+    "game": {
+      "id": 121759,
+      "cover": {
+        "id": 131254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2t9y.jpg"
+      },
+      "name": "Kerbal Space Program 2",
+      "platforms": [
+        6,
+        48,
+        49
+      ]
+    },
+    "human": "Feb 24, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 398514,
+    "date": 1677196800,
+    "game": {
+      "id": 121759,
+      "cover": {
+        "id": 131254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2t9y.jpg"
+      },
+      "name": "Kerbal Space Program 2",
+      "platforms": [
+        6,
+        48,
+        49
+      ]
+    },
+    "human": "Feb 24, 2023",
+    "m": 2,
+    "y": 2023
+  },
+  {
+    "id": 364064,
+    "date": 1677628800,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 01, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 364065,
+    "date": 1677628800,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 01, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 364066,
+    "date": 1677628800,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 01, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433095,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433096,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433097,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433098,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433099,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433100,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 433101,
+    "date": 1677628800,
+    "game": {
+      "id": 18375,
+      "cover": {
+        "id": 70712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ik8.jpg"
+      },
+      "name": "System Shock",
+      "platforms": [
+        3,
+        6,
+        14,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 399582,
+    "date": 1677801600,
+    "game": {
+      "id": 204628,
+      "cover": {
+        "id": 226912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4v34.jpg"
+      },
+      "name": "Wo Long: Fallen Dynasty",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 03, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 399583,
+    "date": 1677801600,
+    "game": {
+      "id": 204628,
+      "cover": {
+        "id": 226912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4v34.jpg"
+      },
+      "name": "Wo Long: Fallen Dynasty",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 03, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 399584,
+    "date": 1677801600,
+    "game": {
+      "id": 204628,
+      "cover": {
+        "id": 226912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4v34.jpg"
+      },
+      "name": "Wo Long: Fallen Dynasty",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 03, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 399585,
+    "date": 1677801600,
+    "game": {
+      "id": 204628,
+      "cover": {
+        "id": 226912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4v34.jpg"
+      },
+      "name": "Wo Long: Fallen Dynasty",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 03, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 399586,
+    "date": 1677801600,
+    "game": {
+      "id": 204628,
+      "cover": {
+        "id": 226912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4v34.jpg"
+      },
+      "name": "Wo Long: Fallen Dynasty",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 03, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 392861,
+    "date": 1678320000,
+    "game": {
+      "id": 37062,
+      "cover": {
+        "id": 231451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+      },
+      "name": "Skull and Bones",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Mar 09, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 392862,
+    "date": 1678320000,
+    "game": {
+      "id": 37062,
+      "cover": {
+        "id": 231451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+      },
+      "name": "Skull and Bones",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Mar 09, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 392863,
+    "date": 1678320000,
+    "game": {
+      "id": 37062,
+      "cover": {
+        "id": 231451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+      },
+      "name": "Skull and Bones",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Mar 09, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 392864,
+    "date": 1678320000,
+    "game": {
+      "id": 37062,
+      "cover": {
+        "id": 231451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+      },
+      "name": "Skull and Bones",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169,
+        170
+      ]
+    },
+    "human": "Mar 09, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 429523,
+    "date": 1679011200,
+    "game": {
+      "id": 201156,
+      "cover": {
+        "id": 273440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5uzk.jpg"
+      },
+      "name": "Star Wars Jedi: Survivor",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 17, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 429524,
+    "date": 1679011200,
+    "game": {
+      "id": 201156,
+      "cover": {
+        "id": 273440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5uzk.jpg"
+      },
+      "name": "Star Wars Jedi: Survivor",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 17, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 429525,
+    "date": 1679011200,
+    "game": {
+      "id": 201156,
+      "cover": {
+        "id": 273440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5uzk.jpg"
+      },
+      "name": "Star Wars Jedi: Survivor",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 17, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 362543,
+    "date": 1679616000,
+    "game": {
+      "id": 132181,
+      "cover": {
+        "id": 224788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tg4.jpg"
+      },
+      "name": "Resident Evil 4",
+      "platforms": [
+        6,
+        48,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 24, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 362579,
+    "date": 1679616000,
+    "game": {
+      "id": 132181,
+      "cover": {
+        "id": 224788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tg4.jpg"
+      },
+      "name": "Resident Evil 4",
+      "platforms": [
+        6,
+        48,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 24, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 362580,
+    "date": 1679616000,
+    "game": {
+      "id": 132181,
+      "cover": {
+        "id": 224788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tg4.jpg"
+      },
+      "name": "Resident Evil 4",
+      "platforms": [
+        6,
+        48,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 24, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 389887,
+    "date": 1679616000,
+    "game": {
+      "id": 132181,
+      "cover": {
+        "id": 224788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tg4.jpg"
+      },
+      "name": "Resident Evil 4",
+      "platforms": [
+        6,
+        48,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 24, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 400655,
+    "date": 1680220800,
+    "game": {
+      "id": 9630,
+      "cover": {
+        "id": 91158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yc6.jpg"
+      },
+      "name": "Fallout 4",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Q1 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 400656,
+    "date": 1680220800,
+    "game": {
+      "id": 9630,
+      "cover": {
+        "id": 91158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yc6.jpg"
+      },
+      "name": "Fallout 4",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Q1 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 429586,
+    "date": 1680220800,
+    "game": {
+      "id": 90012,
+      "cover": {
+        "id": 131147,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2t6z.jpg"
+      },
+      "name": "Way to the Woods",
+      "platforms": [
+        6,
+        49
+      ]
+    },
+    "human": "Q1 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 429587,
+    "date": 1680220800,
+    "game": {
+      "id": 90012,
+      "cover": {
+        "id": 131147,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2t6z.jpg"
+      },
+      "name": "Way to the Woods",
+      "platforms": [
+        6,
+        49
+      ]
+    },
+    "human": "Q1 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 432211,
+    "date": 1680220800,
+    "game": {
+      "id": 144022,
+      "cover": {
+        "id": 208864,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4h5s.jpg"
+      },
+      "name": "Sifu",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 31, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 432212,
+    "date": 1680220800,
+    "game": {
+      "id": 144022,
+      "cover": {
+        "id": 208864,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4h5s.jpg"
+      },
+      "name": "Sifu",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Mar 31, 2023",
+    "m": 3,
+    "y": 2023
+  },
+  {
+    "id": 430766,
+    "date": 1680566400,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 04, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 430767,
+    "date": 1680566400,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 04, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 426151,
+    "date": 1682640000,
+    "game": {
+      "id": 7329,
+      "cover": {
+        "id": 238689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5469.jpg"
+      },
+      "name": "Dead Island 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 28, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 426152,
+    "date": 1682640000,
+    "game": {
+      "id": 7329,
+      "cover": {
+        "id": 238689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5469.jpg"
+      },
+      "name": "Dead Island 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 28, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 426153,
+    "date": 1682640000,
+    "game": {
+      "id": 7329,
+      "cover": {
+        "id": 238689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5469.jpg"
+      },
+      "name": "Dead Island 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 28, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 426154,
+    "date": 1682640000,
+    "game": {
+      "id": 7329,
+      "cover": {
+        "id": 238689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5469.jpg"
+      },
+      "name": "Dead Island 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 28, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 426155,
+    "date": 1682640000,
+    "game": {
+      "id": 7329,
+      "cover": {
+        "id": 238689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5469.jpg"
+      },
+      "name": "Dead Island 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Apr 28, 2023",
+    "m": 4,
+    "y": 2023
+  },
+  {
+    "id": 388901,
+    "date": 1683849600,
+    "game": {
+      "id": 119388,
+      "cover": {
+        "id": 274264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vmg.jpg"
+      },
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "platforms": [
+        130
+      ]
+    },
+    "human": "May 12, 2023",
+    "m": 5,
+    "y": 2023
+  },
+  {
+    "id": 429495,
+    "date": 1685059200,
+    "game": {
+      "id": 136627,
+      "cover": {
+        "id": 187194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+      },
+      "name": "Suicide Squad: Kill the Justice League",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "May 26, 2023",
+    "m": 5,
+    "y": 2023
+  },
+  {
+    "id": 429496,
+    "date": 1685059200,
+    "game": {
+      "id": 136627,
+      "cover": {
+        "id": 187194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+      },
+      "name": "Suicide Squad: Kill the Justice League",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "May 26, 2023",
+    "m": 5,
+    "y": 2023
+  },
+  {
+    "id": 429497,
+    "date": 1685059200,
+    "game": {
+      "id": 136627,
+      "cover": {
+        "id": 187194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+      },
+      "name": "Suicide Squad: Kill the Justice League",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "May 26, 2023",
+    "m": 5,
+    "y": 2023
+  },
+  {
+    "id": 429498,
+    "date": 1686009600,
+    "game": {
+      "id": 125165,
+      "cover": {
+        "id": 83562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sh6.jpg"
+      },
+      "name": "Diablo IV",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Jun 06, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 429499,
+    "date": 1686009600,
+    "game": {
+      "id": 125165,
+      "cover": {
+        "id": 83562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sh6.jpg"
+      },
+      "name": "Diablo IV",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Jun 06, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 429500,
+    "date": 1686009600,
+    "game": {
+      "id": 125165,
+      "cover": {
+        "id": 83562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sh6.jpg"
+      },
+      "name": "Diablo IV",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Jun 06, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 429501,
+    "date": 1686009600,
+    "game": {
+      "id": 125165,
+      "cover": {
+        "id": 83562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sh6.jpg"
+      },
+      "name": "Diablo IV",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Jun 06, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 429502,
+    "date": 1686009600,
+    "game": {
+      "id": 125165,
+      "cover": {
+        "id": 83562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sh6.jpg"
+      },
+      "name": "Diablo IV",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "Jun 06, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 429513,
+    "date": 1687392000,
+    "game": {
+      "id": 31551,
+      "cover": {
+        "id": 274880,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5w3k.jpg"
+      },
+      "name": "Final Fantasy XVI",
+      "platforms": [
+        6,
+        167
+      ]
+    },
+    "human": "Jun 22, 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 358741,
+    "date": 1688083200,
+    "game": {
+      "id": 96437,
+      "cover": {
+        "id": 152779,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39vv.jpg"
+      },
+      "name": "Starfield",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "Q2 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 358742,
+    "date": 1688083200,
+    "game": {
+      "id": 96437,
+      "cover": {
+        "id": 152779,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39vv.jpg"
+      },
+      "name": "Starfield",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "Q2 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 358743,
+    "date": 1688083200,
+    "game": {
+      "id": 152247,
+      "cover": {
+        "id": 236368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52ds.jpg"
+      },
+      "name": "Redfall",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "Q2 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 358744,
+    "date": 1688083200,
+    "game": {
+      "id": 152247,
+      "cover": {
+        "id": 236368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52ds.jpg"
+      },
+      "name": "Redfall",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "Q2 2023",
+    "m": 6,
+    "y": 2023
+  },
+  {
+    "id": 430765,
+    "date": 1690243200,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167,
+        169
+      ]
+    },
+    "human": "Jul 25, 2023",
+    "m": 7,
+    "y": 2023
+  },
+  {
+    "id": 418136,
+    "date": 1701388800,
+    "game": {
+      "id": 101440,
+      "cover": {
+        "id": 266891,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5pxn.jpg"
+      },
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "Dec 2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 224908,
+    "date": 1703980800,
+    "game": {
+      "id": 134612,
+      "cover": {
+        "id": 198266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co48ze.jpg"
+      },
+      "name": "Pragmata",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 224909,
+    "date": 1703980800,
+    "game": {
+      "id": 134612,
+      "cover": {
+        "id": 198266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co48ze.jpg"
+      },
+      "name": "Pragmata",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 224910,
+    "date": 1703980800,
+    "game": {
+      "id": 134612,
+      "cover": {
+        "id": 198266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co48ze.jpg"
+      },
+      "name": "Pragmata",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 227869,
+    "date": 1703980800,
+    "game": {
+      "id": 136879,
+      "cover": {
+        "id": 113127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2faf.jpg"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 227870,
+    "date": 1703980800,
+    "game": {
+      "id": 136879,
+      "cover": {
+        "id": 113127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2faf.jpg"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 227871,
+    "date": 1703980800,
+    "game": {
+      "id": 136879,
+      "cover": {
+        "id": 113127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2faf.jpg"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 227872,
+    "date": 1703980800,
+    "game": {
+      "id": 136879,
+      "cover": {
+        "id": 113127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2faf.jpg"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 296542,
+    "date": 1703980800,
+    "game": {
+      "id": 113360,
+      "cover": {
+        "id": 81869,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r65.jpg"
+      },
+      "name": "Hytale",
+      "platforms": [
+        6,
+        14
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 296543,
+    "date": 1703980800,
+    "game": {
+      "id": 113360,
+      "cover": {
+        "id": 81869,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r65.jpg"
+      },
+      "name": "Hytale",
+      "platforms": [
+        6,
+        14
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 327317,
+    "date": 1703980800,
+    "game": {
+      "id": 30208,
+      "cover": {
+        "id": 269444,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rwk.jpg"
+      },
+      "name": "Dragon Age: Dreadwolf",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 327318,
+    "date": 1703980800,
+    "game": {
+      "id": 30208,
+      "cover": {
+        "id": 269444,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rwk.jpg"
+      },
+      "name": "Dragon Age: Dreadwolf",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 327319,
+    "date": 1703980800,
+    "game": {
+      "id": 30208,
+      "cover": {
+        "id": 269444,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rwk.jpg"
+      },
+      "name": "Dragon Age: Dreadwolf",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 329556,
+    "date": 1703980800,
+    "game": {
+      "id": 185246,
+      "cover": {
+        "id": 199902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a8u.jpg"
+      },
+      "name": "Alan Wake II",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 329557,
+    "date": 1703980800,
+    "game": {
+      "id": 185246,
+      "cover": {
+        "id": 199902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a8u.jpg"
+      },
+      "name": "Alan Wake II",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 329558,
+    "date": 1703980800,
+    "game": {
+      "id": 185246,
+      "cover": {
+        "id": 199902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a8u.jpg"
+      },
+      "name": "Alan Wake II",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 343756,
+    "date": 1703980800,
+    "game": {
+      "id": 51523,
+      "cover": {
+        "id": 209017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+      },
+      "name": "The Wolf Among Us 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 343757,
+    "date": 1703980800,
+    "game": {
+      "id": 51523,
+      "cover": {
+        "id": 209017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+      },
+      "name": "The Wolf Among Us 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 343758,
+    "date": 1703980800,
+    "game": {
+      "id": 51523,
+      "cover": {
+        "id": 209017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+      },
+      "name": "The Wolf Among Us 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 343759,
+    "date": 1703980800,
+    "game": {
+      "id": 51523,
+      "cover": {
+        "id": 209017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+      },
+      "name": "The Wolf Among Us 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 343760,
+    "date": 1703980800,
+    "game": {
+      "id": 51523,
+      "cover": {
+        "id": 209017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+      },
+      "name": "The Wolf Among Us 2",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 357653,
+    "date": 1703980800,
+    "game": {
+      "id": 136879,
+      "cover": {
+        "id": 113127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2faf.jpg"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        6,
+        48,
+        49,
+        130,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 360985,
+    "date": 1703980800,
+    "game": {
+      "id": 152244,
+      "cover": {
+        "id": 152619,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+      },
+      "name": "Replaced",
+      "platforms": [
+        6,
+        49,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 360987,
+    "date": 1703980800,
+    "game": {
+      "id": 152244,
+      "cover": {
+        "id": 152619,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+      },
+      "name": "Replaced",
+      "platforms": [
+        6,
+        49,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 365438,
+    "date": 1703980800,
+    "game": {
+      "id": 78511,
+      "cover": {
+        "id": 112112,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2ei8.jpg"
+      },
+      "name": "Forza Motorsport",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 365439,
+    "date": 1703980800,
+    "game": {
+      "id": 78511,
+      "cover": {
+        "id": 112112,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2ei8.jpg"
+      },
+      "name": "Forza Motorsport",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 365671,
+    "date": 1703980800,
+    "game": {
+      "id": 101440,
+      "cover": {
+        "id": 266891,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5pxn.jpg"
+      },
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 371691,
+    "date": 1703980800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 227872,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4vts.jpg"
+      },
+      "name": "The Invincible",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 371692,
+    "date": 1703980800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 227872,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4vts.jpg"
+      },
+      "name": "The Invincible",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 371693,
+    "date": 1703980800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 227872,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4vts.jpg"
+      },
+      "name": "The Invincible",
+      "platforms": [
+        6,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382054,
+    "date": 1703980800,
+    "game": {
+      "id": 22788,
+      "cover": {
+        "id": 200272,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aj4.jpg"
+      },
+      "name": "Granblue Fantasy: Relink",
+      "platforms": [
+        6,
+        48,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382055,
+    "date": 1703980800,
+    "game": {
+      "id": 22788,
+      "cover": {
+        "id": 200272,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aj4.jpg"
+      },
+      "name": "Granblue Fantasy: Relink",
+      "platforms": [
+        6,
+        48,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382056,
+    "date": 1703980800,
+    "game": {
+      "id": 22788,
+      "cover": {
+        "id": 200272,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aj4.jpg"
+      },
+      "name": "Granblue Fantasy: Relink",
+      "platforms": [
+        6,
+        48,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382806,
+    "date": 1703980800,
+    "game": {
+      "id": 148241,
+      "cover": {
+        "id": 140877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30p9.jpg"
+      },
+      "name": "Lies of P",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382807,
+    "date": 1703980800,
+    "game": {
+      "id": 148241,
+      "cover": {
+        "id": 140877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30p9.jpg"
+      },
+      "name": "Lies of P",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382808,
+    "date": 1703980800,
+    "game": {
+      "id": 148241,
+      "cover": {
+        "id": 140877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30p9.jpg"
+      },
+      "name": "Lies of P",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382809,
+    "date": 1703980800,
+    "game": {
+      "id": 148241,
+      "cover": {
+        "id": 140877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30p9.jpg"
+      },
+      "name": "Lies of P",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 382810,
+    "date": 1703980800,
+    "game": {
+      "id": 148241,
+      "cover": {
+        "id": 140877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30p9.jpg"
+      },
+      "name": "Lies of P",
+      "platforms": [
+        6,
+        48,
+        49,
+        167,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389165,
+    "date": 1703980800,
+    "game": {
+      "id": 117170,
+      "cover": {
+        "id": 246090,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co59vu.jpg"
+      },
+      "name": "Stellar Blade",
+      "platforms": [
+        6,
+        48,
+        49,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389167,
+    "date": 1703980800,
+    "game": {
+      "id": 117170,
+      "cover": {
+        "id": 246090,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co59vu.jpg"
+      },
+      "name": "Stellar Blade",
+      "platforms": [
+        6,
+        48,
+        49,
+        167
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389825,
+    "date": 1703980800,
+    "game": {
+      "id": 152247,
+      "cover": {
+        "id": 236368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52ds.jpg"
+      },
+      "name": "Redfall",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389826,
+    "date": 1703980800,
+    "game": {
+      "id": 152247,
+      "cover": {
+        "id": 236368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52ds.jpg"
+      },
+      "name": "Redfall",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389829,
+    "date": 1703980800,
+    "game": {
+      "id": 14748,
+      "cover": {
+        "id": 100883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25ub.jpg"
+      },
+      "name": "Ni no Kuni II: Revenant Kingdom",
+      "platforms": [
+        6,
+        48,
+        49,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 389830,
+    "date": 1703980800,
+    "game": {
+      "id": 14748,
+      "cover": {
+        "id": 100883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25ub.jpg"
+      },
+      "name": "Ni no Kuni II: Revenant Kingdom",
+      "platforms": [
+        6,
+        48,
+        49,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 399314,
+    "date": 1703980800,
+    "game": {
+      "id": 55029,
+      "cover": {
+        "id": 152692,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39tg.jpg"
+      },
+      "name": "Age of Empires IV",
+      "platforms": [
+        6,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 417861,
+    "date": 1703980800,
+    "game": {
+      "id": 152244,
+      "cover": {
+        "id": 152619,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+      },
+      "name": "Replaced",
+      "platforms": [
+        6,
+        49,
+        169
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  },
+  {
+    "id": 431249,
+    "date": 1703980800,
+    "game": {
+      "id": 27420,
+      "cover": {
+        "id": 126316,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2pgs.jpg"
+      },
+      "name": "Ashes of Creation",
+      "platforms": [
+        6
+      ]
+    },
+    "human": "2023",
+    "m": 12,
+    "y": 2023
+  }
+]
