@@ -102,8 +102,11 @@ function processRawReleases(){
             if (err) throw err;
 
             var nextReleasesObj = [];
-            let games = JSON.parse(data);
 
+            // Store every game in this array
+            var gamesArr = [];
+            
+            let games = JSON.parse(data);
             for (const i in games) {  
 
                 //For this JSON, we only want games that are going to be release from now on.
@@ -117,10 +120,14 @@ function processRawReleases(){
                         "release_year": games[i].y,
                         "platforms": getPlatforms(games[i].game.platforms)
                     }
-                    
-                    nextReleasesObj.push(gameObj);
+                
+                    // Add to array
+                    gamesArr.push(gameObj);
                 }
             }
+
+            // Store the array of games in the final object
+            nextReleasesObj.push(gamesArr);
             
             nextReleasesObj = removeDuplicates(nextReleasesObj);
 
@@ -129,7 +136,8 @@ function processRawReleases(){
                 "updated_at": Math.floor(Date.now() / 1000)
             }
 
-            nextReleasesObj.push(info);
+            var api_info = [info];
+            nextReleasesObj.push(api_info);
 
             resolve(JSON.stringify(nextReleasesObj));
         });
@@ -179,11 +187,16 @@ async function main() {
         console.error(err);
     }
 }
-  
-// Run everyday at midnight
-cron.schedule('0 0 * * *', function() {
-    main();
-});
+
+if (process.argv[2] && process.argv[2] === '-now') { 
+        console.log('[info] Running process now.'); 
+        main();
+    } else { 
+        console.log('[info] Process will run every day at 23h59.'); 
+        cron.schedule('0 0 * * *', function() {
+            main();
+    });
+} 
 
 
 /*

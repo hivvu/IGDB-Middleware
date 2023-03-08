@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node process.js",
+    "now": "node process.js -now",
     "server": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "follow-redirects": "^1.15.2",

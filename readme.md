@@ -18,5 +18,6 @@ Use `npm install` to install every dependency
 
 ## How to run
 
-Use `npm start` to run the script that have a cron inside that only runs at midnight of every day.
+Use `npm start` to run the script that have a cron inside that only runs at midnight of every day. If, for some reason, it's needed to run the process function immediately, use `npm run now`.
 Use `npm server` to run the server that is going to use the port specified in the `.env` file
+
