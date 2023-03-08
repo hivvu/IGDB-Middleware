@@ -101,10 +101,10 @@ function processRawReleases(){
         fs.readFile('resources/raw-data.json', (err, data) => {
             if (err) throw err;
 
-            var nextReleasesObj = [];
+            var nextReleasesObj = {};
 
             // Store every game in this array
-            var gamesObj = {};
+            var gamesObj = [];
             
             let games = JSON.parse(data);
             for (const i in games) {  
@@ -122,22 +122,22 @@ function processRawReleases(){
                     }
                 
                     // Add to object
-                    gamesObj.games = gameObj;
+                    gamesObj.push(gameObj);
                 }
             }
 
-            // Store the array of games in the final object
-            nextReleasesObj.push(gamesObj);
+            gamesObj = removeDuplicates(gamesObj);
             
-            nextReleasesObj = removeDuplicates(nextReleasesObj);
+            // Store the array of games in the final object
+            nextReleasesObj.games = gamesObj;
+            
 
             var info = {
                 "count": nextReleasesObj.length, 
                 "updated_at": Math.floor(Date.now() / 1000)
             }
 
-            var api_info = {'info': info};
-            nextReleasesObj.push(api_info);
+            nextReleasesObj.info = info
 
             resolve(JSON.stringify(nextReleasesObj));
         });
@@ -147,11 +147,12 @@ function processRawReleases(){
 function processReleasesByMonth(){
     return new Promise((resolve, reject) => {
         fs.readFile('resources/next-releases.json', (err, data) => {
+            let jsonFile = JSON.parse(data);
+            
             if (err) throw err;
 
             let releasesObj = [];
-            let games = JSON.parse(data);
-
+            let games = jsonFile.games;
             // Cycle trough the 12 months
             for (var i = 1; i <= 12; i++){
                 var gamesObj = games.filter(a => a.release_month == i);
@@ -162,7 +163,7 @@ function processReleasesByMonth(){
                 "updated_at": Math.floor(Date.now() / 1000)
             }
 
-            releasesObj.push(info);
+            releasesObj.info = info;
 
             resolve(JSON.stringify(releasesObj));
         });
@@ -171,13 +172,13 @@ function processReleasesByMonth(){
 
 async function main() {
     try {
-        const result = await makeApiCall();
-        fs.writeFileSync('resources/raw-data.json', result);
-        console.info('[info] API call and file write successful!');
+        // const result = await makeApiCall();
+        // fs.writeFileSync('resources/raw-data.json', result);
+        // console.info('[info] API call and file write successful!');
         
-        const processedData = await processRawReleases();
-        fs.writeFileSync('resources/next-releases.json', processedData);
-        console.info('[info] Data processed, JSON with next releases created!');
+        // const processedData = await processRawReleases();
+        // fs.writeFileSync('resources/next-releases.json', processedData);
+        // console.info('[info] Data processed, JSON with next releases created!');
         
         const processedMonthData = await processReleasesByMonth();
         fs.writeFileSync('resources/month-releases.json', processedMonthData);
