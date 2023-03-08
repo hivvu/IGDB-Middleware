@@ -104,7 +104,7 @@ function processRawReleases(){
             var nextReleasesObj = [];
 
             // Store every game in this array
-            var gamesArr = [];
+            var gamesObj = {};
             
             let games = JSON.parse(data);
             for (const i in games) {  
@@ -121,13 +121,13 @@ function processRawReleases(){
                         "platforms": getPlatforms(games[i].game.platforms)
                     }
                 
-                    // Add to array
-                    gamesArr.push(gameObj);
+                    // Add to object
+                    gamesObj.games = gameObj;
                 }
             }
 
             // Store the array of games in the final object
-            nextReleasesObj.push(gamesArr);
+            nextReleasesObj.push(gamesObj);
             
             nextReleasesObj = removeDuplicates(nextReleasesObj);
 
@@ -136,7 +136,7 @@ function processRawReleases(){
                 "updated_at": Math.floor(Date.now() / 1000)
             }
 
-            var api_info = [info];
+            var api_info = {'info': info};
             nextReleasesObj.push(api_info);
 
             resolve(JSON.stringify(nextReleasesObj));
