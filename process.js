@@ -172,13 +172,13 @@ function processReleasesByMonth(){
 
 async function main() {
     try {
-        // const result = await makeApiCall();
-        // fs.writeFileSync('resources/raw-data.json', result);
-        // console.info('[info] API call and file write successful!');
+        const result = await makeApiCall();
+        fs.writeFileSync('resources/raw-data.json', result);
+        console.info('[info] API call and file write successful!');
         
-        // const processedData = await processRawReleases();
-        // fs.writeFileSync('resources/next-releases.json', processedData);
-        // console.info('[info] Data processed, JSON with next releases created!');
+        const processedData = await processRawReleases();
+        fs.writeFileSync('resources/next-releases.json', processedData);
+        console.info('[info] Data processed, JSON with next releases created!');
         
         const processedMonthData = await processReleasesByMonth();
         fs.writeFileSync('resources/month-releases.json', processedMonthData);
