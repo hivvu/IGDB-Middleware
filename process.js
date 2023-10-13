@@ -29,15 +29,16 @@ function makeApiCall(){
         
             res.on("end", function (chunk) {
                 var body = Buffer.concat(chunks);
+                console.info('[info] API call and file write successful!');
                 resolve(body.toString());
             });
             
             res.on("error", function (error) {
-                console.error(error);
+                console.error('[error] ' + error);
             });
         });
         
-        var postData = "fields game.id,game.name,date,human,game.platforms,y,m,game.cover.url; \nwhere game.platforms = (6, 48, 130, 167, 169, 49, 390) & game.hypes > 10 & y = " + new Date().getFullYear() + "; sort date asc; limit 150;";
+        var postData = "fields game.id,game.name,date,human,game.platforms,y,m,game.cover.url; \nwhere game.platforms = (6, 48, 130, 167, 169, 49, 390) & game.hypes > 10 & y = " + (new Date().getFullYear() + 1) + "; sort date asc; limit 150;";
         
         req.write(postData);
         req.end();
@@ -125,19 +126,27 @@ function processRawReleases(){
                     gamesObj.push(gameObj);
                 }
             }
-
-            gamesObj = removeDuplicates(gamesObj);
+            
+            if (gamesObj.length){
+                gamesObj = removeDuplicates(gamesObj);
+            }
             
             // Store the array of games in the final object
             nextReleasesObj.games = gamesObj;
             
-
             var info = {
+                "message": gamesObj.length ? 'Games added to the list' : 'No games added. Are there any releases?',
                 "count": nextReleasesObj.length, 
                 "updated_at": Math.floor(Date.now() / 1000)
             }
 
             nextReleasesObj.info = info
+
+            if (gamesObj.length){
+                console.info('[info] Data processed, JSON with next releases created!');
+            } else {
+                console.info('[error] No games added. Are there any releases?');
+            }
 
             resolve(JSON.stringify(nextReleasesObj));
         });
@@ -174,11 +183,9 @@ async function main() {
     try {
         const result = await makeApiCall();
         fs.writeFileSync('resources/raw-data.json', result);
-        console.info('[info] API call and file write successful!');
         
         const processedData = await processRawReleases();
         fs.writeFileSync('resources/next-releases.json', processedData);
-        console.info('[info] Data processed, JSON with next releases created!');
         
         const processedMonthData = await processReleasesByMonth();
         fs.writeFileSync('resources/month-releases.json', processedMonthData);
