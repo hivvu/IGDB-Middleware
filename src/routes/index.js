@@ -16,6 +16,11 @@ let routes = (app) => {
     readable.pipe(res);
   });
   
+  router.get("/games-releases", function(req, res){
+    var readable = fs.createReadStream('resources/game-releases.json');
+    readable.pipe(res);
+  });
+
   // Any other route will deliver a 404
   router.get('*', (req, res) => res.send({
     "error": 404
