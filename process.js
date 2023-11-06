@@ -38,12 +38,40 @@ function makeApiCall(){
             });
         });
         
-        var postData = "fields game.id,game.name,date,human,game.platforms,y,m,game.cover.url; \nwhere game.platforms = (6, 48, 130, 167, 169, 49, 390) & game.hypes > 10 & y = " + (new Date().getFullYear() + 1) + "; sort date asc; limit 150;";
+        // var postData = "fields game.id,game.name,date,human,game.platforms,y,m,game.cover.url; \nwhere game.platforms = (6, 48, 130, 167, 169, 49, 390) & game.hypes > 10 & y = " + (new Date().getFullYear() + 1) + "; sort date asc; limit 150;";
+        var curTime = new Date().getTime();
+        var curMonthNum = new Date().getMonth()+1;
+        var postData = `fields
+                            game.name,
+                            game.cover.url,
+                            m, y,
+                            platform.name, 
+                            date;
+                        where 
+                            category = 0 &
+                            m > ${curMonthNum} &
+                            y = 2023;
+                        sort date asc;
+                        limit 400;
+                    `;
         
+        // console.log(postData);
+
         req.write(postData);
         req.end();
     });
 }
+
+
+/*
+
+                            category = 0 & 
+                            game.hypes > 2 &
+                            date > ${curTime} & 
+                            date < 1711839600 &
+                            game.platforms = [6, 167, 169];
+
+*/
 
 // Unique by multiple properties ( id and title )
 function removeDuplicates(arr) {
@@ -197,17 +225,18 @@ async function main() {
 }
 
 if (process.argv[2] && process.argv[2] === '-now') { 
-        console.log('[info] Running process now.'); 
+    console.log('[info] Running process now.'); 
+    main();
+} else { 
+    console.log('[info] Process will run every day at 23h59.'); 
+    cron.schedule('59 23 * * *', function() {
         main();
-    } else { 
-        console.log('[info] Process will run every day at 23h59.'); 
-        cron.schedule('0 0 * * *', function() {
-            main();
     });
-} 
+}
 
 
 /*
+https://api-docs.igdb.com/#game
 
 Platforms:
 Linux - 3
@@ -237,6 +266,25 @@ PS5 - 167
 Series X - 169
 XONE - 49
 PSVR2 - 390
+
+game.platform = [6,48,130,167,169,49,390]
+
+
+
+fields 
+    game.name,
+    game.platforms,
+    date,
+    game.first_release_date,
+    human;
+where 
+    category = 0 & 
+    game.hypes > 2 &
+    date > 1696118400 & 
+    date < 1704067140 &
+    game.platforms = {6, 167, 169, 130};
+sort 
+    human desc;
 
 
 */

@@ -1,865 +1,6998 @@
 [
   {
-    "id": 506347,
-    "date": 1706745600,
+    "id": 357689,
+    "date": 1698796800,
     "game": {
-      "id": 22788,
+      "id": 152448,
       "cover": {
-        "id": 325267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6yz7.jpg"
+        "id": 162382,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ham.jpg"
       },
-      "name": "Granblue Fantasy: Relink",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Swooping Justice"
     },
-    "human": "Feb 01, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 506348,
-    "date": 1706745600,
+    "id": 399420,
+    "date": 1698796800,
     "game": {
-      "id": 22788,
+      "id": 138402,
       "cover": {
-        "id": 325267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6yz7.jpg"
+        "id": 119293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k1p.jpg"
       },
-      "name": "Granblue Fantasy: Relink",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Dragon Acres"
     },
-    "human": "Feb 01, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 506349,
-    "date": 1706745600,
+    "id": 431429,
+    "date": 1698796800,
     "game": {
-      "id": 22788,
+      "id": 140849,
       "cover": {
-        "id": 325267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6yz7.jpg"
+        "id": 119451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k63.jpg"
       },
-      "name": "Granblue Fantasy: Relink",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "First Adventure"
     },
-    "human": "Feb 01, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 467834,
-    "date": 1706832000,
+    "id": 447379,
+    "date": 1698796800,
     "game": {
-      "id": 136627,
+      "id": 231544,
       "cover": {
-        "id": 187194,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+        "id": 280431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co60dr.jpg"
       },
-      "name": "Suicide Squad: Kill the Justice League",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Shrine of the Spirits"
     },
-    "human": "Feb 02, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 467835,
-    "date": 1706832000,
+    "id": 461614,
+    "date": 1698796800,
     "game": {
-      "id": 136627,
+      "id": 190890,
       "cover": {
-        "id": 187194,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+        "id": 257650,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5isy.jpg"
       },
-      "name": "Suicide Squad: Kill the Justice League",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Legendarium Online"
     },
-    "human": "Feb 02, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 467836,
-    "date": 1706832000,
+    "id": 474293,
+    "date": 1698796800,
     "game": {
-      "id": 136627,
+      "id": 139530,
       "cover": {
-        "id": 187194,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40fu.jpg"
+        "id": 117012,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2iac.jpg"
       },
-      "name": "Suicide Squad: Kill the Justice League",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Death Blonde"
     },
-    "human": "Feb 02, 2024",
-    "m": 2,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 439194,
-    "date": 1711843200,
+    "id": 474440,
+    "date": 1698796800,
     "game": {
-      "id": 21962,
+      "id": 217618,
       "cover": {
-        "id": 72165,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1jol.jpg"
+        "id": 302100,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6h3o.jpg"
       },
-      "name": "Lost Soul Aside",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Call of Duty: Warzone - Mobile"
     },
-    "human": "Q1 2024",
-    "m": 3,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
   },
   {
-    "id": 439195,
-    "date": 1711843200,
+    "id": 474441,
+    "date": 1698796800,
     "game": {
-      "id": 21962,
+      "id": 217618,
       "cover": {
-        "id": 72165,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1jol.jpg"
+        "id": 302100,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6h3o.jpg"
       },
-      "name": "Lost Soul Aside",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Call of Duty: Warzone - Mobile"
     },
-    "human": "Q1 2024",
-    "m": 3,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
   },
   {
-    "id": 439196,
-    "date": 1711843200,
+    "id": 516101,
+    "date": 1698796800,
     "game": {
-      "id": 21962,
+      "id": 182190,
       "cover": {
-        "id": 72165,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1jol.jpg"
+        "id": 198169,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co48wp.jpg"
       },
-      "name": "Lost Soul Aside",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Song of Nunu: A League of Legends Story"
     },
-    "human": "Q1 2024",
-    "m": 3,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 506541,
-    "date": 1711843200,
+    "id": 521355,
+    "date": 1698796800,
     "game": {
-      "id": 101440,
+      "id": 256001,
       "cover": {
-        "id": 266891,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5pxn.jpg"
+        "id": 334837,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76d1.jpg"
       },
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "RollerCoaster Tycoon Adventures Deluxe"
     },
-    "human": "Q1 2024",
-    "m": 3,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 506542,
-    "date": 1711843200,
+    "id": 522787,
+    "date": 1698796800,
     "game": {
-      "id": 101440,
+      "id": 218674,
       "cover": {
-        "id": 266891,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5pxn.jpg"
+        "id": 287505,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co65u9.jpg"
       },
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "This Bed We Made"
     },
-    "human": "Q1 2024",
-    "m": 3,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 438851,
-    "date": 1727654400,
+    "id": 524216,
+    "date": 1698796800,
     "game": {
-      "id": 136879,
+      "id": 238537,
       "cover": {
-        "id": 298379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6e8b.jpg"
+        "id": 287898,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6656.jpg"
       },
-      "name": "Black Myth: Wukong",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Tiny Fight"
     },
-    "human": "Q3 2024",
-    "m": 9,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 505699,
-    "date": 1727654400,
+    "id": 524217,
+    "date": 1698796800,
     "game": {
-      "id": 136879,
+      "id": 238537,
       "cover": {
-        "id": 298379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6e8b.jpg"
+        "id": 287898,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6656.jpg"
       },
-      "name": "Black Myth: Wukong",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Tiny Fight"
     },
-    "human": "Q3 2024",
-    "m": 9,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
   },
   {
-    "id": 505700,
-    "date": 1727654400,
+    "id": 524218,
+    "date": 1698796800,
     "game": {
-      "id": 136879,
+      "id": 238537,
       "cover": {
-        "id": 298379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6e8b.jpg"
+        "id": 287898,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6656.jpg"
       },
-      "name": "Black Myth: Wukong",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Tiny Fight"
     },
-    "human": "Q3 2024",
-    "m": 9,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
   },
   {
-    "id": 457067,
-    "date": 1735603200,
+    "id": 525269,
+    "date": 1698796800,
     "game": {
-      "id": 51523,
+      "id": 131817,
       "cover": {
-        "id": 209017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+        "id": 167624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lc8.jpg"
       },
-      "name": "The Wolf Among Us 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Alien Hominid Invasion"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 457068,
-    "date": 1735603200,
+    "id": 525270,
+    "date": 1698796800,
     "game": {
-      "id": 51523,
+      "id": 131817,
       "cover": {
-        "id": 209017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+        "id": 167624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lc8.jpg"
       },
-      "name": "The Wolf Among Us 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Alien Hominid Invasion"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
   },
   {
-    "id": 457069,
-    "date": 1735603200,
+    "id": 525271,
+    "date": 1698796800,
     "game": {
-      "id": 51523,
+      "id": 131817,
       "cover": {
-        "id": 209017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+        "id": 167624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lc8.jpg"
       },
-      "name": "The Wolf Among Us 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Alien Hominid Invasion"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
   },
   {
-    "id": 457070,
-    "date": 1735603200,
+    "id": 525272,
+    "date": 1698796800,
     "game": {
-      "id": 51523,
+      "id": 131817,
       "cover": {
-        "id": 209017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+        "id": 167624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lc8.jpg"
       },
-      "name": "The Wolf Among Us 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Alien Hominid Invasion"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 457071,
-    "date": 1735603200,
+    "id": 528043,
+    "date": 1698796800,
     "game": {
-      "id": 51523,
+      "id": 272392,
       "cover": {
-        "id": 209017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ha1.jpg"
+        "id": 338474,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7962.jpg"
       },
-      "name": "The Wolf Among Us 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Vice City Race"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 482675,
-    "date": 1735603200,
+    "id": 528754,
+    "date": 1698796800,
     "game": {
-      "id": 135994,
+      "id": 146439,
       "cover": {
-        "id": 308487,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m13.jpg"
+        "id": 138573,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2yx9.jpg"
       },
-      "name": "Avowed",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "Alpha Particle"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 482676,
-    "date": 1735603200,
+    "id": 530683,
+    "date": 1698796800,
     "game": {
-      "id": 135994,
+      "id": 248662,
       "cover": {
-        "id": 308487,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m13.jpg"
+        "id": 301145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6gd5.jpg"
       },
-      "name": "Avowed",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "Fusion Paradox"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 482686,
-    "date": 1735603200,
+    "id": 530684,
+    "date": 1698796800,
     "game": {
-      "id": 127342,
+      "id": 248662,
       "cover": {
-        "id": 308507,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m1n.jpg"
+        "id": 301145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6gd5.jpg"
       },
-      "name": "Senua\u0027s Saga: Hellblade II",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "Fusion Paradox"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
   },
   {
-    "id": 482687,
-    "date": 1735603200,
+    "id": 530685,
+    "date": 1698796800,
     "game": {
-      "id": 127342,
+      "id": 248662,
       "cover": {
-        "id": 308507,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m1n.jpg"
+        "id": 301145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6gd5.jpg"
       },
-      "name": "Senua\u0027s Saga: Hellblade II",
-      "platforms": [
-        6,
-        169
-      ]
+      "name": "Fusion Paradox"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
   },
   {
-    "id": 498930,
-    "date": 1735603200,
+    "id": 531180,
+    "date": 1698796800,
     "game": {
-      "id": 120206,
+      "id": 204717,
       "cover": {
-        "id": 273828,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vac.jpg"
+        "id": 306465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6kgx.jpg"
       },
-      "name": "Blue Protocol",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Ninja or Die: Shadow of the Sun"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 498931,
-    "date": 1735603200,
+    "id": 531710,
+    "date": 1698796800,
     "game": {
-      "id": 120206,
+      "id": 123706,
       "cover": {
-        "id": 273828,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vac.jpg"
+        "id": 105062,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co292e.jpg"
       },
-      "name": "Blue Protocol",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Enchanted Portals"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 498932,
-    "date": 1735603200,
+    "id": 531913,
+    "date": 1698796800,
     "game": {
-      "id": 120206,
+      "id": 20673,
       "cover": {
-        "id": 273828,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vac.jpg"
+        "id": 22176,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hskhazt13vqafzfjnmvd.jpg"
       },
-      "name": "Blue Protocol",
-      "platforms": [
-        6,
-        167,
-        169
-      ]
+      "name": "Alien Hominid HD"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 505668,
-    "date": 1735603200,
+    "id": 531919,
+    "date": 1698796800,
     "game": {
-      "id": 152244,
+      "id": 274442,
       "cover": {
-        "id": 152619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+        "id": 340854,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7b06.jpg"
       },
-      "name": "Replaced",
-      "platforms": [
-        6,
-        49,
-        169
-      ]
+      "name": "Alien Hominid: The Extra Terrestrial Bundle"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 505669,
-    "date": 1735603200,
+    "id": 485154,
+    "date": 1698883200,
     "game": {
-      "id": 152244,
+      "id": 254337,
       "cover": {
-        "id": 152619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+        "id": 310553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nmh.jpg"
       },
-      "name": "Replaced",
-      "platforms": [
-        6,
-        49,
-        169
-      ]
+      "name": "Star Ocean: The Second Story R"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 505670,
-    "date": 1735603200,
+    "id": 485155,
+    "date": 1698883200,
     "game": {
-      "id": 152244,
+      "id": 254337,
       "cover": {
-        "id": 152619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39rf.jpg"
+        "id": 310553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nmh.jpg"
       },
-      "name": "Replaced",
-      "platforms": [
-        6,
-        49,
-        169
-      ]
+      "name": "Star Ocean: The Second Story R"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
   },
   {
-    "id": 506610,
-    "date": 1735603200,
+    "id": 485156,
+    "date": 1698883200,
     "game": {
-      "id": 37062,
+      "id": 254337,
       "cover": {
-        "id": 231451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+        "id": 310553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nmh.jpg"
       },
-      "name": "Skull and Bones",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Star Ocean: The Second Story R"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
   },
   {
-    "id": 506611,
-    "date": 1735603200,
+    "id": 485157,
+    "date": 1698883200,
     "game": {
-      "id": 37062,
+      "id": 254337,
       "cover": {
-        "id": 231451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+        "id": 310553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nmh.jpg"
       },
-      "name": "Skull and Bones",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Star Ocean: The Second Story R"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 506612,
-    "date": 1735603200,
+    "id": 485519,
+    "date": 1698883200,
     "game": {
-      "id": 37062,
+      "id": 236659,
       "cover": {
-        "id": 231451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4yl7.jpg"
+        "id": 324034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6y0y.jpg"
       },
-      "name": "Skull and Bones",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Fashion Dreamer"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 507707,
-    "date": 1735603200,
+    "id": 487062,
+    "date": 1698883200,
     "game": {
-      "id": 130806,
+      "id": 185240,
       "cover": {
-        "id": 241532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co56d8.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "DokeV",
-      "platforms": [
-        6,
-        48,
-        49
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   },
   {
-    "id": 507708,
-    "date": 1735603200,
+    "id": 487063,
+    "date": 1698883200,
     "game": {
-      "id": 130806,
+      "id": 185240,
       "cover": {
-        "id": 241532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co56d8.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "DokeV",
-      "platforms": [
-        6,
-        48,
-        49
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 507709,
-    "date": 1735603200,
+    "id": 487064,
+    "date": 1698883200,
     "game": {
-      "id": 130806,
+      "id": 185240,
       "cover": {
-        "id": 241532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co56d8.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "DokeV",
-      "platforms": [
-        6,
-        48,
-        49
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
   },
   {
-    "id": 511345,
-    "date": 1735603200,
+    "id": 487065,
+    "date": 1698883200,
     "game": {
-      "id": 116530,
+      "id": 185240,
       "cover": {
-        "id": 116509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hwd.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "Vampire: The Masquerade - Bloodlines 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
   },
   {
-    "id": 511346,
-    "date": 1735603200,
+    "id": 487066,
+    "date": 1698883200,
     "game": {
-      "id": 116530,
+      "id": 185240,
       "cover": {
-        "id": 116509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hwd.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "Vampire: The Masquerade - Bloodlines 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
   },
   {
-    "id": 511347,
-    "date": 1735603200,
+    "id": 487067,
+    "date": 1698883200,
     "game": {
-      "id": 116530,
+      "id": 185240,
       "cover": {
-        "id": 116509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hwd.jpg"
+        "id": 199927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4a9j.jpg"
       },
-      "name": "Vampire: The Masquerade - Bloodlines 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Thirsty Suitors"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
   },
   {
-    "id": 511348,
-    "date": 1735603200,
+    "id": 506496,
+    "date": 1698883200,
     "game": {
-      "id": 116530,
+      "id": 252849,
       "cover": {
-        "id": 116509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hwd.jpg"
+        "id": 308529,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m29.jpg"
       },
-      "name": "Vampire: The Masquerade - Bloodlines 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Stampede Racing Royale"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 511349,
-    "date": 1735603200,
+    "id": 508295,
+    "date": 1698883200,
     "game": {
-      "id": 116530,
+      "id": 154775,
       "cover": {
-        "id": 116509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hwd.jpg"
+        "id": 231430,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ykm.jpg"
       },
-      "name": "Vampire: The Masquerade - Bloodlines 2",
-      "platforms": [
-        6,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Robocop: Rogue City"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
   },
   {
-    "id": 515305,
-    "date": 1735603200,
+    "id": 508296,
+    "date": 1698883200,
     "game": {
-      "id": 215060,
+      "id": 154775,
       "cover": {
-        "id": 243379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co57sj.jpg"
+        "id": 231430,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ykm.jpg"
       },
-      "name": "Assassin\u0027s Creed Mirage",
-      "platforms": [
-        6,
-        39,
-        48,
-        49,
-        167,
-        169
-      ]
+      "name": "Robocop: Rogue City"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
   },
   {
-    "id": 520610,
-    "date": 1735603200,
+    "id": 508297,
+    "date": 1698883200,
     "game": {
-      "id": 112874,
+      "id": 154775,
       "cover": {
-        "id": 115194,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gvu.jpg"
+        "id": 231430,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ykm.jpg"
       },
-      "name": "Horizon Forbidden West",
-      "platforms": [
-        6,
-        48,
-        167
-      ]
+      "name": "Robocop: Rogue City"
     },
-    "human": "2024",
-    "m": 12,
-    "y": 2024
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515674,
+    "date": 1698883200,
+    "game": {
+      "id": 151353,
+      "cover": {
+        "id": 225441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ty9.jpg"
+      },
+      "name": "PlateUp!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515675,
+    "date": 1698883200,
+    "game": {
+      "id": 151353,
+      "cover": {
+        "id": 225441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ty9.jpg"
+      },
+      "name": "PlateUp!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515676,
+    "date": 1698883200,
+    "game": {
+      "id": 151353,
+      "cover": {
+        "id": 225441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ty9.jpg"
+      },
+      "name": "PlateUp!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515677,
+    "date": 1698883200,
+    "game": {
+      "id": 151353,
+      "cover": {
+        "id": 225441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ty9.jpg"
+      },
+      "name": "PlateUp!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515678,
+    "date": 1698883200,
+    "game": {
+      "id": 151353,
+      "cover": {
+        "id": 225441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ty9.jpg"
+      },
+      "name": "PlateUp!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516613,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516614,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516615,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516616,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516617,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516618,
+    "date": 1698883200,
+    "game": {
+      "id": 140427,
+      "cover": {
+        "id": 308544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m2o.jpg"
+      },
+      "name": "My Time at Sandrock"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517057,
+    "date": 1698883200,
+    "game": {
+      "id": 251559,
+      "cover": {
+        "id": 306701,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6knh.jpg"
+      },
+      "name": "Vampire: The Masquerade - Justice"
+    },
+    "m": 11,
+    "platform": {
+      "id": 386,
+      "name": "Meta Quest 2"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517058,
+    "date": 1698883200,
+    "game": {
+      "id": 251559,
+      "cover": {
+        "id": 306701,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6knh.jpg"
+      },
+      "name": "Vampire: The Masquerade - Justice"
+    },
+    "m": 11,
+    "platform": {
+      "id": 390,
+      "name": "PlayStation VR2"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520285,
+    "date": 1698883200,
+    "game": {
+      "id": 79864,
+      "cover": {
+        "id": 304977,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jbl.jpg"
+      },
+      "name": "The Talos Principle II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520286,
+    "date": 1698883200,
+    "game": {
+      "id": 79864,
+      "cover": {
+        "id": 304977,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jbl.jpg"
+      },
+      "name": "The Talos Principle II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520287,
+    "date": 1698883200,
+    "game": {
+      "id": 79864,
+      "cover": {
+        "id": 304977,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jbl.jpg"
+      },
+      "name": "The Talos Principle II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520898,
+    "date": 1698883200,
+    "game": {
+      "id": 173080,
+      "cover": {
+        "id": 340137,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag9.jpg"
+      },
+      "name": "Phantom Blade: Executioners"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520899,
+    "date": 1698883200,
+    "game": {
+      "id": 173080,
+      "cover": {
+        "id": 340137,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag9.jpg"
+      },
+      "name": "Phantom Blade: Executioners"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520900,
+    "date": 1698883200,
+    "game": {
+      "id": 173080,
+      "cover": {
+        "id": 340137,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag9.jpg"
+      },
+      "name": "Phantom Blade: Executioners"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520901,
+    "date": 1698883200,
+    "game": {
+      "id": 173080,
+      "cover": {
+        "id": 340137,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag9.jpg"
+      },
+      "name": "Phantom Blade: Executioners"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520902,
+    "date": 1698883200,
+    "game": {
+      "id": 173080,
+      "cover": {
+        "id": 340137,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag9.jpg"
+      },
+      "name": "Phantom Blade: Executioners"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 521354,
+    "date": 1698883200,
+    "game": {
+      "id": 269355,
+      "cover": {
+        "id": 335595,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76y3.jpg"
+      },
+      "name": "Foosball League Cup: Arcade Table Football Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523717,
+    "date": 1698883200,
+    "game": {
+      "id": 108121,
+      "cover": {
+        "id": 197016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co480o.jpg"
+      },
+      "name": "FX-Unit Yuki: The Henshin Engine"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523719,
+    "date": 1698883200,
+    "game": {
+      "id": 250172,
+      "cover": {
+        "id": 303461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6i5h.jpg"
+      },
+      "name": "The Smurfs 2: The Prisoner of the Green Stone"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526788,
+    "date": 1698883200,
+    "game": {
+      "id": 215876,
+      "cover": {
+        "id": 314281,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6qi1.jpg"
+      },
+      "name": "Eigengrau"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526839,
+    "date": 1698883200,
+    "game": {
+      "id": 271839,
+      "cover": {
+        "id": 337548,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78gc.jpg"
+      },
+      "name": "City Parking Driver: Draw The Path Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526884,
+    "date": 1698883200,
+    "game": {
+      "id": 217311,
+      "cover": {
+        "id": 275070,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5w8u.jpg"
+      },
+      "name": "For the King II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527427,
+    "date": 1698883200,
+    "game": {
+      "id": 208399,
+      "cover": {
+        "id": 325454,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4e.jpg"
+      },
+      "name": "Gangs of Sherwood"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527428,
+    "date": 1698883200,
+    "game": {
+      "id": 208399,
+      "cover": {
+        "id": 325454,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4e.jpg"
+      },
+      "name": "Gangs of Sherwood"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527429,
+    "date": 1698883200,
+    "game": {
+      "id": 208399,
+      "cover": {
+        "id": 325454,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4e.jpg"
+      },
+      "name": "Gangs of Sherwood"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529606,
+    "date": 1698883200,
+    "game": {
+      "id": 273314,
+      "cover": {
+        "id": 339625,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7a21.jpg"
+      },
+      "name": "Street Basketball Club: Sport Throw Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529622,
+    "date": 1698883200,
+    "game": {
+      "id": 271640,
+      "cover": {
+        "id": 337098,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co783u.jpg"
+      },
+      "name": "Geometric Brothers"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530992,
+    "date": 1698883200,
+    "game": {
+      "id": 165390,
+      "cover": {
+        "id": 298767,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ej3.jpg"
+      },
+      "name": "Blasphemous II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530993,
+    "date": 1698883200,
+    "game": {
+      "id": 165390,
+      "cover": {
+        "id": 298767,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ej3.jpg"
+      },
+      "name": "Blasphemous II"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531171,
+    "date": 1698883200,
+    "game": {
+      "id": 204513,
+      "cover": {
+        "id": 226750,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4uym.jpg"
+      },
+      "name": "Chicken Journey"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531345,
+    "date": 1698883200,
+    "game": {
+      "id": 244644,
+      "cover": {
+        "id": 307707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lff.jpg"
+      },
+      "name": "Destroy the Monoliths"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531346,
+    "date": 1698883200,
+    "game": {
+      "id": 244644,
+      "cover": {
+        "id": 307707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lff.jpg"
+      },
+      "name": "Destroy the Monoliths"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531347,
+    "date": 1698883200,
+    "game": {
+      "id": 244644,
+      "cover": {
+        "id": 307707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lff.jpg"
+      },
+      "name": "Destroy the Monoliths"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531915,
+    "date": 1698883200,
+    "game": {
+      "id": 272424,
+      "cover": {
+        "id": 340782,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ay6.jpg"
+      },
+      "name": "Model Debut 3 #Nicola"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482682,
+    "date": 1698969600,
+    "game": {
+      "id": 252831,
+      "cover": {
+        "id": 308485,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m11.jpg"
+      },
+      "name": "Microsoft Flight Simulator: Dune"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482683,
+    "date": 1698969600,
+    "game": {
+      "id": 252831,
+      "cover": {
+        "id": 308485,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m11.jpg"
+      },
+      "name": "Microsoft Flight Simulator: Dune"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 485170,
+    "date": 1698969600,
+    "game": {
+      "id": 254341,
+      "cover": {
+        "id": 310908,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nwc.jpg"
+      },
+      "name": "WarioWare: Move It!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497242,
+    "date": 1698969600,
+    "game": {
+      "id": 236659,
+      "cover": {
+        "id": 324034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6y0y.jpg"
+      },
+      "name": "Fashion Dreamer"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 504054,
+    "date": 1698969600,
+    "game": {
+      "id": 132226,
+      "cover": {
+        "id": 105915,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co29q3.jpg"
+      },
+      "name": "Quantum Error"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506876,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506877,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506878,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506879,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506880,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506881,
+    "date": 1698969600,
+    "game": {
+      "id": 253061,
+      "cover": {
+        "id": 309085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mhp.jpg"
+      },
+      "name": "Jumanji: Wild Adventures"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 507095,
+    "date": 1698969600,
+    "game": {
+      "id": 237435,
+      "cover": {
+        "id": 287011,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co65gj.jpg"
+      },
+      "name": "StrangerZ"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 512023,
+    "date": 1698969600,
+    "game": {
+      "id": 264412,
+      "cover": {
+        "id": 340511,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7aqn.jpg"
+      },
+      "name": "EA Sports WRC"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 512024,
+    "date": 1698969600,
+    "game": {
+      "id": 264412,
+      "cover": {
+        "id": 340511,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7aqn.jpg"
+      },
+      "name": "EA Sports WRC"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 512025,
+    "date": 1698969600,
+    "game": {
+      "id": 264412,
+      "cover": {
+        "id": 340511,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7aqn.jpg"
+      },
+      "name": "EA Sports WRC"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 513618,
+    "date": 1698969600,
+    "game": {
+      "id": 258407,
+      "cover": {
+        "id": 318831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6u0f.jpg"
+      },
+      "name": "Logic Escape"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517588,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517589,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517590,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517591,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520332,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520333,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520334,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520335,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520336,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520337,
+    "date": 1698969600,
+    "game": {
+      "id": 259206,
+      "cover": {
+        "id": 333317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co756t.jpg"
+      },
+      "name": "Nickelodeon All-Star Brawl 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520753,
+    "date": 1698969600,
+    "game": {
+      "id": 240084,
+      "cover": {
+        "id": 289998,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co67ri.jpg"
+      },
+      "name": "Pokémon Violet + The Hidden Treasure of Area Zero"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520754,
+    "date": 1698969600,
+    "game": {
+      "id": 240083,
+      "cover": {
+        "id": 289997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co67rh.jpg"
+      },
+      "name": "Pokémon Scarlet + The Hidden Treasure of Area Zero"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520787,
+    "date": 1698969600,
+    "game": {
+      "id": 247191,
+      "cover": {
+        "id": 333668,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co75gk.jpg"
+      },
+      "name": "PlateUp!: Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520788,
+    "date": 1698969600,
+    "game": {
+      "id": 247191,
+      "cover": {
+        "id": 333668,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co75gk.jpg"
+      },
+      "name": "PlateUp!: Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520789,
+    "date": 1698969600,
+    "game": {
+      "id": 247191,
+      "cover": {
+        "id": 333668,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co75gk.jpg"
+      },
+      "name": "PlateUp!: Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523239,
+    "date": 1698969600,
+    "game": {
+      "id": 199925,
+      "cover": {
+        "id": 322513,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wup.jpg"
+      },
+      "name": "Warcraft Rumble"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523240,
+    "date": 1698969600,
+    "game": {
+      "id": 199925,
+      "cover": {
+        "id": 322513,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wup.jpg"
+      },
+      "name": "Warcraft Rumble"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 524282,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526255,
+    "date": 1698969600,
+    "game": {
+      "id": 271400,
+      "name": "The Silent Swan: Rising in the Mist Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526786,
+    "date": 1698969600,
+    "game": {
+      "id": 244457,
+      "cover": {
+        "id": 308528,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m28.jpg"
+      },
+      "name": "Ebenezer and the Invisible World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526827,
+    "date": 1698969600,
+    "game": {
+      "id": 271835,
+      "name": "Knights \u0026 Guns: Diamond Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526829,
+    "date": 1698969600,
+    "game": {
+      "id": 271837,
+      "name": "S.N.I.P.E.R.: Hunter Scope - Diamond Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526838,
+    "date": 1698969600,
+    "game": {
+      "id": 265106,
+      "cover": {
+        "id": 328296,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71bc.jpg"
+      },
+      "name": "One Night: Burlesque"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528005,
+    "date": 1698969600,
+    "game": {
+      "id": 139520,
+      "cover": {
+        "id": 329138,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71yq.jpg"
+      },
+      "name": "Super Dungeon Designer"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528006,
+    "date": 1698969600,
+    "game": {
+      "id": 139520,
+      "cover": {
+        "id": 329138,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71yq.jpg"
+      },
+      "name": "Super Dungeon Designer"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528089,
+    "date": 1698969600,
+    "game": {
+      "id": 272406,
+      "cover": {
+        "id": 338495,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co796n.jpg"
+      },
+      "name": "Roads Construction Sim"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529140,
+    "date": 1698969600,
+    "game": {
+      "id": 210951,
+      "cover": {
+        "id": 339428,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79wk.jpg"
+      },
+      "name": "Come Together"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529141,
+    "date": 1698969600,
+    "game": {
+      "id": 210951,
+      "cover": {
+        "id": 339428,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79wk.jpg"
+      },
+      "name": "Come Together"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529555,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529556,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529557,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529558,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529559,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529560,
+    "date": 1698969600,
+    "game": {
+      "id": 258804,
+      "cover": {
+        "id": 319242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ubu.jpg"
+      },
+      "name": "DreamWorks All-Star Kart Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529643,
+    "date": 1698969600,
+    "game": {
+      "id": 273334,
+      "name": "DreamWorks All-Star Kart Racing: Rally Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529644,
+    "date": 1698969600,
+    "game": {
+      "id": 273335,
+      "name": "DreamWorks All-Star Kart Racing: Rally Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530913,
+    "date": 1698969600,
+    "game": {
+      "id": 273427,
+      "cover": {
+        "id": 340128,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ag0.jpg"
+      },
+      "name": "Skibidi Backrooms"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531172,
+    "date": 1698969600,
+    "game": {
+      "id": 233686,
+      "cover": {
+        "id": 282861,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6299.jpg"
+      },
+      "name": "Amabilly"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 456291,
+    "date": 1699056000,
+    "game": {
+      "id": 109615,
+      "cover": {
+        "id": 117504,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2io0.jpg"
+      },
+      "name": "Twilight Path"
+    },
+    "m": 11,
+    "platform": {
+      "id": 165,
+      "name": "PlayStation VR"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519049,
+    "date": 1699056000,
+    "game": {
+      "id": 178080,
+      "cover": {
+        "id": 332453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74it.jpg"
+      },
+      "name": "Cards and Castles 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519050,
+    "date": 1699056000,
+    "game": {
+      "id": 178080,
+      "cover": {
+        "id": 332453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74it.jpg"
+      },
+      "name": "Cards and Castles 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531409,
+    "date": 1699056000,
+    "game": {
+      "id": 274147,
+      "cover": {
+        "id": 340407,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7anr.jpg"
+      },
+      "name": "Johou Battle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531914,
+    "date": 1699056000,
+    "game": {
+      "id": 126705,
+      "cover": {
+        "id": 170042,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3n7e.jpg"
+      },
+      "name": "White Wings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 421831,
+    "date": 1699228800,
+    "game": {
+      "id": 224687,
+      "cover": {
+        "id": 274307,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vnn.jpg"
+      },
+      "name": "Never Ending Beyond"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505629,
+    "date": 1699228800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 282117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co61ol.jpg"
+      },
+      "name": "The Invincible"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505630,
+    "date": 1699228800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 282117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co61ol.jpg"
+      },
+      "name": "The Invincible"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505631,
+    "date": 1699228800,
+    "game": {
+      "id": 138906,
+      "cover": {
+        "id": 282117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co61ol.jpg"
+      },
+      "name": "The Invincible"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515523,
+    "date": 1699228800,
+    "game": {
+      "id": 245845,
+      "cover": {
+        "id": 298022,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6dye.jpg"
+      },
+      "name": "Dash \u0026 Swing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516341,
+    "date": 1699228800,
+    "game": {
+      "id": 266727,
+      "cover": {
+        "id": 330557,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7325.jpg"
+      },
+      "name": "Football Manager 2024 Touch"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517744,
+    "date": 1699228800,
+    "game": {
+      "id": 266382,
+      "cover": {
+        "id": 331741,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73z1.jpg"
+      },
+      "name": "Football Manager 2024"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517875,
+    "date": 1699228800,
+    "game": {
+      "id": 266382,
+      "cover": {
+        "id": 331741,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73z1.jpg"
+      },
+      "name": "Football Manager 2024"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517876,
+    "date": 1699228800,
+    "game": {
+      "id": 266382,
+      "cover": {
+        "id": 331741,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73z1.jpg"
+      },
+      "name": "Football Manager 2024"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519928,
+    "date": 1699228800,
+    "game": {
+      "id": 266727,
+      "cover": {
+        "id": 330557,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7325.jpg"
+      },
+      "name": "Football Manager 2024 Touch"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526840,
+    "date": 1699228800,
+    "game": {
+      "id": 271840,
+      "cover": {
+        "id": 337547,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78gb.jpg"
+      },
+      "name": "Farmer Bundle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528120,
+    "date": 1699228800,
+    "game": {
+      "id": 249612,
+      "cover": {
+        "id": 302780,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6hmk.jpg"
+      },
+      "name": "The Elephant Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528121,
+    "date": 1699228800,
+    "game": {
+      "id": 249612,
+      "cover": {
+        "id": 302780,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6hmk.jpg"
+      },
+      "name": "The Elephant Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529573,
+    "date": 1699228800,
+    "game": {
+      "id": 265825,
+      "cover": {
+        "id": 329026,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71vm.jpg"
+      },
+      "name": "Playtown"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529586,
+    "date": 1699228800,
+    "game": {
+      "id": 273295,
+      "cover": {
+        "id": 339323,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79tn.jpg"
+      },
+      "name": "Iglacia"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 496374,
+    "date": 1699315200,
+    "game": {
+      "id": 257672,
+      "cover": {
+        "id": 317898,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6tai.jpg"
+      },
+      "name": "Stronghold: Definitive Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516621,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516622,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516623,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516624,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516625,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516626,
+    "date": 1699315200,
+    "game": {
+      "id": 223863,
+      "cover": {
+        "id": 326074,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zlm.jpg"
+      },
+      "name": "Tintin Reporter: Cigars of the Pharaoh"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519463,
+    "date": 1699315200,
+    "game": {
+      "id": 261154,
+      "cover": {
+        "id": 324356,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6y9w.jpg"
+      },
+      "name": "Let\u0027s Sing 2024"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519860,
+    "date": 1699315200,
+    "game": {
+      "id": 268592,
+      "cover": {
+        "id": 337145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7855.jpg"
+      },
+      "name": "Let\u0027s Sing 2024 with International Hits"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 521415,
+    "date": 1699315200,
+    "game": {
+      "id": 269378,
+      "name": "Harvest Moon: The Winds of Anthos - Tool Upgrade \u0026 New Interior Designs Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 522802,
+    "date": 1699315200,
+    "game": {
+      "id": 269911,
+      "cover": {
+        "id": 335367,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76rr.jpg"
+      },
+      "name": "Typecast"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523871,
+    "date": 1699315200,
+    "game": {
+      "id": 270579,
+      "name": "Total War: Wahammer Trilogy"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526828,
+    "date": 1699315200,
+    "game": {
+      "id": 271836,
+      "name": "Let\u0027s Sing 2024 with International Hits: Platinum Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526830,
+    "date": 1699315200,
+    "game": {
+      "id": 271838,
+      "name": "Let\u0027s Sing 2024 with International Hits: Gold Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528301,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528302,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528303,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528304,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528305,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529018,
+    "date": 1699315200,
+    "game": {
+      "id": 152065,
+      "cover": {
+        "id": 151718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co392e.jpg"
+      },
+      "name": "Salt and Sacrifice"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529252,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529253,
+    "date": 1699315200,
+    "game": {
+      "id": 272800,
+      "cover": {
+        "id": 338707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79cj.jpg"
+      },
+      "name": "Minecraft: Star Wars - Path of the Jedi"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530208,
+    "date": 1699315200,
+    "game": {
+      "id": 246153,
+      "cover": {
+        "id": 339929,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7aah.jpg"
+      },
+      "name": "Metria"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530209,
+    "date": 1699315200,
+    "game": {
+      "id": 246153,
+      "cover": {
+        "id": 339929,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7aah.jpg"
+      },
+      "name": "Metria"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530734,
+    "date": 1699315200,
+    "game": {
+      "id": 273327,
+      "cover": {
+        "id": 339626,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7a22.jpg"
+      },
+      "name": "Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523345,
+    "date": 1699401600,
+    "game": {
+      "id": 164206,
+      "cover": {
+        "id": 248685,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bvx.jpg"
+      },
+      "name": "Beyond Sunset"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526787,
+    "date": 1699401600,
+    "game": {
+      "id": 232416,
+      "cover": {
+        "id": 333753,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co75ix.jpg"
+      },
+      "name": "Cobalt Core"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530432,
+    "date": 1699401600,
+    "game": {
+      "id": 273864,
+      "name": "Genshin Impact: Masquerade of the Guilty"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530433,
+    "date": 1699401600,
+    "game": {
+      "id": 273864,
+      "name": "Genshin Impact: Masquerade of the Guilty"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530434,
+    "date": 1699401600,
+    "game": {
+      "id": 273864,
+      "name": "Genshin Impact: Masquerade of the Guilty"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530435,
+    "date": 1699401600,
+    "game": {
+      "id": 273864,
+      "name": "Genshin Impact: Masquerade of the Guilty"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530436,
+    "date": 1699401600,
+    "game": {
+      "id": 273864,
+      "name": "Genshin Impact: Masquerade of the Guilty"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530507,
+    "date": 1699401600,
+    "game": {
+      "id": 229794,
+      "cover": {
+        "id": 276842,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5xm2.jpg"
+      },
+      "name": "Risk of Rain Returns"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530508,
+    "date": 1699401600,
+    "game": {
+      "id": 229794,
+      "cover": {
+        "id": 276842,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5xm2.jpg"
+      },
+      "name": "Risk of Rain Returns"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531903,
+    "date": 1699401600,
+    "game": {
+      "id": 274438,
+      "cover": {
+        "id": 340828,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7azg.jpg"
+      },
+      "name": "Excessive Trim"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 417322,
+    "date": 1699488000,
+    "game": {
+      "id": 146965,
+      "cover": {
+        "id": 187206,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co40g6.jpg"
+      },
+      "name": "Red Rust"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482048,
+    "date": 1699488000,
+    "game": {
+      "id": 217624,
+      "cover": {
+        "id": 307984,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ln4.jpg"
+      },
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482049,
+    "date": 1699488000,
+    "game": {
+      "id": 217624,
+      "cover": {
+        "id": 307984,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ln4.jpg"
+      },
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482050,
+    "date": 1699488000,
+    "game": {
+      "id": 217624,
+      "cover": {
+        "id": 307984,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ln4.jpg"
+      },
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482051,
+    "date": 1699488000,
+    "game": {
+      "id": 217624,
+      "cover": {
+        "id": 307984,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ln4.jpg"
+      },
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482052,
+    "date": 1699488000,
+    "game": {
+      "id": 217624,
+      "cover": {
+        "id": 307984,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ln4.jpg"
+      },
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497037,
+    "date": 1699488000,
+    "game": {
+      "id": 258256,
+      "name": "Wildshade: Unicorn Champions"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497038,
+    "date": 1699488000,
+    "game": {
+      "id": 258256,
+      "name": "Wildshade: Unicorn Champions"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497039,
+    "date": 1699488000,
+    "game": {
+      "id": 258256,
+      "name": "Wildshade: Unicorn Champions"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497040,
+    "date": 1699488000,
+    "game": {
+      "id": 258256,
+      "name": "Wildshade: Unicorn Champions"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 497041,
+    "date": 1699488000,
+    "game": {
+      "id": 258256,
+      "name": "Wildshade: Unicorn Champions"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516312,
+    "date": 1699488000,
+    "game": {
+      "id": 266719,
+      "cover": {
+        "id": 330533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co731h.jpg"
+      },
+      "name": "Tales of Arise: Beyond the Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516313,
+    "date": 1699488000,
+    "game": {
+      "id": 266719,
+      "cover": {
+        "id": 330533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co731h.jpg"
+      },
+      "name": "Tales of Arise: Beyond the Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516314,
+    "date": 1699488000,
+    "game": {
+      "id": 266719,
+      "cover": {
+        "id": 330533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co731h.jpg"
+      },
+      "name": "Tales of Arise: Beyond the Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516315,
+    "date": 1699488000,
+    "game": {
+      "id": 266719,
+      "cover": {
+        "id": 330533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co731h.jpg"
+      },
+      "name": "Tales of Arise: Beyond the Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516316,
+    "date": 1699488000,
+    "game": {
+      "id": 266719,
+      "cover": {
+        "id": 330533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co731h.jpg"
+      },
+      "name": "Tales of Arise: Beyond the Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518894,
+    "date": 1699488000,
+    "game": {
+      "id": 268090,
+      "cover": {
+        "id": 332381,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gt.jpg"
+      },
+      "name": "Double Dragon Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518895,
+    "date": 1699488000,
+    "game": {
+      "id": 268090,
+      "cover": {
+        "id": 332381,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gt.jpg"
+      },
+      "name": "Double Dragon Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518896,
+    "date": 1699488000,
+    "game": {
+      "id": 268090,
+      "cover": {
+        "id": 332381,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gt.jpg"
+      },
+      "name": "Double Dragon Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518897,
+    "date": 1699488000,
+    "game": {
+      "id": 268090,
+      "cover": {
+        "id": 332381,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gt.jpg"
+      },
+      "name": "Double Dragon Collection"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518904,
+    "date": 1699488000,
+    "game": {
+      "id": 268093,
+      "cover": {
+        "id": 332386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gy.jpg"
+      },
+      "name": "Devil Engine: Complete Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518905,
+    "date": 1699488000,
+    "game": {
+      "id": 268093,
+      "cover": {
+        "id": 332386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gy.jpg"
+      },
+      "name": "Devil Engine: Complete Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518906,
+    "date": 1699488000,
+    "game": {
+      "id": 268093,
+      "cover": {
+        "id": 332386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gy.jpg"
+      },
+      "name": "Devil Engine: Complete Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518907,
+    "date": 1699488000,
+    "game": {
+      "id": 268093,
+      "cover": {
+        "id": 332386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gy.jpg"
+      },
+      "name": "Devil Engine: Complete Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 518908,
+    "date": 1699488000,
+    "game": {
+      "id": 268093,
+      "cover": {
+        "id": 332386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co74gy.jpg"
+      },
+      "name": "Devil Engine: Complete Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520874,
+    "date": 1699488000,
+    "game": {
+      "id": 251555,
+      "cover": {
+        "id": 306698,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6kne.jpg"
+      },
+      "name": "Demeo Battles"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523718,
+    "date": 1699488000,
+    "game": {
+      "id": 198494,
+      "cover": {
+        "id": 218982,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4oyu.jpg"
+      },
+      "name": "Spells \u0026 Secrets"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 524780,
+    "date": 1699488000,
+    "game": {
+      "id": 147480,
+      "cover": {
+        "id": 162335,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3h9b.jpg"
+      },
+      "name": "Virche Evermore: ErroR:salvation"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525257,
+    "date": 1699488000,
+    "game": {
+      "id": 197183,
+      "cover": {
+        "id": 217245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4nml.jpg"
+      },
+      "name": "Ikonei Island: An Earthlock Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525258,
+    "date": 1699488000,
+    "game": {
+      "id": 197183,
+      "cover": {
+        "id": 217245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4nml.jpg"
+      },
+      "name": "Ikonei Island: An Earthlock Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525259,
+    "date": 1699488000,
+    "game": {
+      "id": 197183,
+      "cover": {
+        "id": 217245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4nml.jpg"
+      },
+      "name": "Ikonei Island: An Earthlock Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525260,
+    "date": 1699488000,
+    "game": {
+      "id": 197183,
+      "cover": {
+        "id": 217245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4nml.jpg"
+      },
+      "name": "Ikonei Island: An Earthlock Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525261,
+    "date": 1699488000,
+    "game": {
+      "id": 197183,
+      "cover": {
+        "id": 217245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4nml.jpg"
+      },
+      "name": "Ikonei Island: An Earthlock Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529119,
+    "date": 1699488000,
+    "game": {
+      "id": 273070,
+      "name": "Higurashi When They Cry Hou+: Outbreak"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529120,
+    "date": 1699488000,
+    "game": {
+      "id": 273070,
+      "name": "Higurashi When They Cry Hou+: Outbreak"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529121,
+    "date": 1699488000,
+    "game": {
+      "id": 273070,
+      "name": "Higurashi When They Cry Hou+: Outbreak"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529124,
+    "date": 1699488000,
+    "game": {
+      "id": 273072,
+      "name": "Higurashi When They Cry Hou+: Kamikashimashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529125,
+    "date": 1699488000,
+    "game": {
+      "id": 273072,
+      "name": "Higurashi When They Cry Hou+: Kamikashimashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529126,
+    "date": 1699488000,
+    "game": {
+      "id": 273072,
+      "name": "Higurashi When They Cry Hou+: Kamikashimashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529134,
+    "date": 1699488000,
+    "game": {
+      "id": 273075,
+      "name": "Higurashi When They Cry Hou+: Hinamizawa Bus Stop"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529135,
+    "date": 1699488000,
+    "game": {
+      "id": 273075,
+      "name": "Higurashi When They Cry Hou+: Hinamizawa Bus Stop"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529136,
+    "date": 1699488000,
+    "game": {
+      "id": 273075,
+      "name": "Higurashi When They Cry Hou+: Hinamizawa Bus Stop"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529196,
+    "date": 1699488000,
+    "game": {
+      "id": 273084,
+      "name": "Higurashi When They Cry Hou+: Mehagashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529197,
+    "date": 1699488000,
+    "game": {
+      "id": 273084,
+      "name": "Higurashi When They Cry Hou+: Mehagashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529198,
+    "date": 1699488000,
+    "game": {
+      "id": 273084,
+      "name": "Higurashi When They Cry Hou+: Mehagashi Chapter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529208,
+    "date": 1699488000,
+    "game": {
+      "id": 273086,
+      "cover": {
+        "id": 339114,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79nu.jpg"
+      },
+      "name": "Higurashi When They Cry Hou+"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529209,
+    "date": 1699488000,
+    "game": {
+      "id": 273086,
+      "cover": {
+        "id": 339114,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79nu.jpg"
+      },
+      "name": "Higurashi When They Cry Hou+"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529210,
+    "date": 1699488000,
+    "game": {
+      "id": 273086,
+      "cover": {
+        "id": 339114,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co79nu.jpg"
+      },
+      "name": "Higurashi When They Cry Hou+"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529594,
+    "date": 1699488000,
+    "game": {
+      "id": 273303,
+      "cover": {
+        "id": 340851,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7b03.jpg"
+      },
+      "name": "War Zone Soldier: Battle Royale Shooter"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529602,
+    "date": 1699488000,
+    "game": {
+      "id": 273311,
+      "cover": {
+        "id": 340850,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7b02.jpg"
+      },
+      "name": "Prison Break: Jail Escape Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529630,
+    "date": 1699488000,
+    "game": {
+      "id": 270485,
+      "cover": {
+        "id": 335617,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76yp.jpg"
+      },
+      "name": "Berzerk: Recharged"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529880,
+    "date": 1699488000,
+    "game": {
+      "id": 211330,
+      "cover": {
+        "id": 250506,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5dai.jpg"
+      },
+      "name": "Cuisineer"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530702,
+    "date": 1699488000,
+    "game": {
+      "id": 118473,
+      "cover": {
+        "id": 265576,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ox4.jpg"
+      },
+      "name": "Electrician Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530758,
+    "date": 1699488000,
+    "game": {
+      "id": 118473,
+      "cover": {
+        "id": 265576,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ox4.jpg"
+      },
+      "name": "Electrician Simulator"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531173,
+    "date": 1699488000,
+    "game": {
+      "id": 204077,
+      "cover": {
+        "id": 297610,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6dmy.jpg"
+      },
+      "name": "Flooded"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531332,
+    "date": 1699488000,
+    "game": {
+      "id": 274107,
+      "name": "Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531333,
+    "date": 1699488000,
+    "game": {
+      "id": 274107,
+      "name": "Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531399,
+    "date": 1699488000,
+    "game": {
+      "id": 211215,
+      "cover": {
+        "id": 262172,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5mak.jpg"
+      },
+      "name": "Space Trash Scavenger"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531905,
+    "date": 1699488000,
+    "game": {
+      "id": 6384,
+      "cover": {
+        "id": 186481,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3zw1.jpg"
+      },
+      "name": "Double Dragon Advance"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531909,
+    "date": 1699488000,
+    "game": {
+      "id": 263087,
+      "cover": {
+        "id": 325865,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zft.jpg"
+      },
+      "name": "Dragon Wings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 441056,
+    "date": 1699574400,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 441057,
+    "date": 1699574400,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 441058,
+    "date": 1699574400,
+    "game": {
+      "id": 142901,
+      "cover": {
+        "id": 229431,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4x13.jpg"
+      },
+      "name": "The Day Before"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486411,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486412,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486413,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486414,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486415,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486416,
+    "date": 1699574400,
+    "game": {
+      "id": 203458,
+      "cover": {
+        "id": 225041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4tn5.jpg"
+      },
+      "name": "Air Twister"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506326,
+    "date": 1699574400,
+    "game": {
+      "id": 260780,
+      "cover": {
+        "id": 322674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wz6.jpg"
+      },
+      "name": "Call of Duty: Modern Warfare III"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506327,
+    "date": 1699574400,
+    "game": {
+      "id": 260780,
+      "cover": {
+        "id": 322674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wz6.jpg"
+      },
+      "name": "Call of Duty: Modern Warfare III"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506328,
+    "date": 1699574400,
+    "game": {
+      "id": 260780,
+      "cover": {
+        "id": 322674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wz6.jpg"
+      },
+      "name": "Call of Duty: Modern Warfare III"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506329,
+    "date": 1699574400,
+    "game": {
+      "id": 260780,
+      "cover": {
+        "id": 322674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wz6.jpg"
+      },
+      "name": "Call of Duty: Modern Warfare III"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506330,
+    "date": 1699574400,
+    "game": {
+      "id": 260780,
+      "cover": {
+        "id": 322674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wz6.jpg"
+      },
+      "name": "Call of Duty: Modern Warfare III"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 522721,
+    "date": 1699574400,
+    "game": {
+      "id": 269258,
+      "cover": {
+        "id": 333885,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co75ml.jpg"
+      },
+      "name": "Frontball Planet"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526078,
+    "date": 1699574400,
+    "game": {
+      "id": 270205,
+      "name": "Disney Dreamlight Valley: Cozy Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526079,
+    "date": 1699574400,
+    "game": {
+      "id": 270205,
+      "name": "Disney Dreamlight Valley: Cozy Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526080,
+    "date": 1699574400,
+    "game": {
+      "id": 270205,
+      "name": "Disney Dreamlight Valley: Cozy Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526081,
+    "date": 1699574400,
+    "game": {
+      "id": 270205,
+      "name": "Disney Dreamlight Valley: Cozy Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526082,
+    "date": 1699574400,
+    "game": {
+      "id": 270205,
+      "name": "Disney Dreamlight Valley: Cozy Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526234,
+    "date": 1699574400,
+    "game": {
+      "id": 271399,
+      "name": "L.O.L. Surprise! Roller Dreams Racing"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527420,
+    "date": 1699574400,
+    "game": {
+      "id": 270737,
+      "cover": {
+        "id": 336048,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77ao.jpg"
+      },
+      "name": "Take the King!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527421,
+    "date": 1699574400,
+    "game": {
+      "id": 270737,
+      "cover": {
+        "id": 336048,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77ao.jpg"
+      },
+      "name": "Take the King!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527422,
+    "date": 1699574400,
+    "game": {
+      "id": 270737,
+      "cover": {
+        "id": 336048,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77ao.jpg"
+      },
+      "name": "Take the King!"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529593,
+    "date": 1699574400,
+    "game": {
+      "id": 273302,
+      "name": "Urban Flow: Diamond Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529608,
+    "date": 1699574400,
+    "game": {
+      "id": 273315,
+      "cover": {
+        "id": 339624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7a20.jpg"
+      },
+      "name": "The Trotties Adventure"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 529638,
+    "date": 1699574400,
+    "game": {
+      "id": 273331,
+      "name": "Cooking Arena: 8 in 1 Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531174,
+    "date": 1699574400,
+    "game": {
+      "id": 261038,
+      "cover": {
+        "id": 331409,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73pt.jpg"
+      },
+      "name": "Slaughter: The Lost Outpost"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531908,
+    "date": 1699574400,
+    "game": {
+      "id": 23508,
+      "cover": {
+        "id": 92062,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1z1a.jpg"
+      },
+      "name": "Claire: Extended Cut"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 467646,
+    "date": 1699660800,
+    "game": {
+      "id": 226174,
+      "cover": {
+        "id": 297806,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6dse.jpg"
+      },
+      "name": "Portable Ops"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520626,
+    "date": 1699833600,
+    "game": {
+      "id": 133446,
+      "cover": {
+        "id": 327437,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co70nh.jpg"
+      },
+      "name": "Bzzzt"
+    },
+    "m": 11,
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520627,
+    "date": 1699833600,
+    "game": {
+      "id": 133446,
+      "cover": {
+        "id": 327437,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co70nh.jpg"
+      },
+      "name": "Bzzzt"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 520628,
+    "date": 1699833600,
+    "game": {
+      "id": 133446,
+      "cover": {
+        "id": 327437,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co70nh.jpg"
+      },
+      "name": "Bzzzt"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527411,
+    "date": 1699833600,
+    "game": {
+      "id": 157855,
+      "cover": {
+        "id": 338018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78te.jpg"
+      },
+      "name": "Tau Cubis"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531177,
+    "date": 1699833600,
+    "game": {
+      "id": 204418,
+      "cover": {
+        "id": 264248,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5nw8.jpg"
+      },
+      "name": "Spirittea"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 475168,
+    "date": 1699920000,
+    "game": {
+      "id": 136625,
+      "cover": {
+        "id": 114879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gn3.jpg"
+      },
+      "name": "Hogwarts Legacy"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505610,
+    "date": 1699920000,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508354,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508355,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508356,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508357,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508358,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508359,
+    "date": 1699920000,
+    "game": {
+      "id": 263462,
+      "cover": {
+        "id": 326221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6zpp.jpg"
+      },
+      "name": "Turok 3: Shadow of Oblivion Remastered"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 513279,
+    "date": 1699920000,
+    "game": {
+      "id": 260072,
+      "cover": {
+        "id": 321471,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6w1r.jpg"
+      },
+      "name": "Home Computer Heroes Collection 1"
+    },
+    "m": 11,
+    "platform": {
+      "id": 309,
+      "name": "Evercade"
+    },
+    "y": 2023
+  },
+  {
+    "id": 513280,
+    "date": 1699920000,
+    "game": {
+      "id": 260078,
+      "cover": {
+        "id": 321482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6w22.jpg"
+      },
+      "name": "Full Void: Special Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 309,
+      "name": "Evercade"
+    },
+    "y": 2023
+  },
+  {
+    "id": 513284,
+    "date": 1699920000,
+    "game": {
+      "id": 204028,
+      "cover": {
+        "id": 321472,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6w1s.jpg"
+      },
+      "name": "Full Void"
+    },
+    "m": 11,
+    "platform": {
+      "id": 309,
+      "name": "Evercade"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515449,
+    "date": 1699920000,
+    "game": {
+      "id": 122866,
+      "cover": {
+        "id": 125291,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2oob.jpg"
+      },
+      "name": "Broken Roads"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515450,
+    "date": 1699920000,
+    "game": {
+      "id": 122866,
+      "cover": {
+        "id": 125291,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2oob.jpg"
+      },
+      "name": "Broken Roads"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 515451,
+    "date": 1699920000,
+    "game": {
+      "id": 122866,
+      "cover": {
+        "id": 125291,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2oob.jpg"
+      },
+      "name": "Broken Roads"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516156,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516346,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516347,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516348,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516349,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516350,
+    "date": 1699920000,
+    "game": {
+      "id": 258252,
+      "cover": {
+        "id": 336786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77v6.jpg"
+      },
+      "name": "Super Crazy Rhythm Castle"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517476,
+    "date": 1699920000,
+    "game": {
+      "id": 262704,
+      "cover": {
+        "id": 325451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4b.jpg"
+      },
+      "name": "Age of Empires IV: The Sultans Ascend"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517477,
+    "date": 1699920000,
+    "game": {
+      "id": 262704,
+      "cover": {
+        "id": 325451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4b.jpg"
+      },
+      "name": "Age of Empires IV: The Sultans Ascend"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517478,
+    "date": 1699920000,
+    "game": {
+      "id": 262704,
+      "cover": {
+        "id": 325451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z4b.jpg"
+      },
+      "name": "Age of Empires IV: The Sultans Ascend"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523540,
+    "date": 1699920000,
+    "game": {
+      "id": 246564,
+      "cover": {
+        "id": 298953,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eo9.jpg"
+      },
+      "name": "KarmaZoo"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523541,
+    "date": 1699920000,
+    "game": {
+      "id": 246564,
+      "cover": {
+        "id": 298953,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eo9.jpg"
+      },
+      "name": "KarmaZoo"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523542,
+    "date": 1699920000,
+    "game": {
+      "id": 246564,
+      "cover": {
+        "id": 298953,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eo9.jpg"
+      },
+      "name": "KarmaZoo"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523543,
+    "date": 1699920000,
+    "game": {
+      "id": 246564,
+      "cover": {
+        "id": 298953,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eo9.jpg"
+      },
+      "name": "KarmaZoo"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526050,
+    "date": 1699920000,
+    "game": {
+      "id": 239407,
+      "cover": {
+        "id": 289006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zy.jpg"
+      },
+      "name": "UFO Robot Grendizer: The Feast of the Wolves"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526051,
+    "date": 1699920000,
+    "game": {
+      "id": 239407,
+      "cover": {
+        "id": 289006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zy.jpg"
+      },
+      "name": "UFO Robot Grendizer: The Feast of the Wolves"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526052,
+    "date": 1699920000,
+    "game": {
+      "id": 239407,
+      "cover": {
+        "id": 289006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zy.jpg"
+      },
+      "name": "UFO Robot Grendizer: The Feast of the Wolves"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526053,
+    "date": 1699920000,
+    "game": {
+      "id": 239407,
+      "cover": {
+        "id": 289006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zy.jpg"
+      },
+      "name": "UFO Robot Grendizer: The Feast of the Wolves"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526054,
+    "date": 1699920000,
+    "game": {
+      "id": 239407,
+      "cover": {
+        "id": 289006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zy.jpg"
+      },
+      "name": "UFO Robot Grendizer: The Feast of the Wolves"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528767,
+    "date": 1699920000,
+    "game": {
+      "id": 214440,
+      "cover": {
+        "id": 239414,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co54qe.jpg"
+      },
+      "name": "Hogwarts Legacy: Digital Deluxe Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528776,
+    "date": 1699920000,
+    "game": {
+      "id": 237565,
+      "cover": {
+        "id": 288348,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66ho.jpg"
+      },
+      "name": "Hogwarts Legacy: Dark Arts Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531175,
+    "date": 1699920000,
+    "game": {
+      "id": 180876,
+      "cover": {
+        "id": 217732,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4o04.jpg"
+      },
+      "name": "Astral Ascent"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 510347,
+    "date": 1700006400,
+    "game": {
+      "id": 249003,
+      "cover": {
+        "id": 329126,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71ye.jpg"
+      },
+      "name": "Checkmate Showdown"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 511122,
+    "date": 1700006400,
+    "game": {
+      "id": 27209,
+      "cover": {
+        "id": 77615,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nvz.jpg"
+      },
+      "name": "SinoAlice"
+    },
+    "m": 11,
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    },
+    "y": 2023
+  },
+  {
+    "id": 511125,
+    "date": 1700006400,
+    "game": {
+      "id": 27209,
+      "cover": {
+        "id": 77615,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nvz.jpg"
+      },
+      "name": "SinoAlice"
+    },
+    "m": 11,
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523908,
+    "date": 1700006400,
+    "game": {
+      "id": 270589,
+      "name": "Teardown: Deluxe Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523909,
+    "date": 1700006400,
+    "game": {
+      "id": 270589,
+      "name": "Teardown: Deluxe Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525034,
+    "date": 1700006400,
+    "game": {
+      "id": 266070,
+      "cover": {
+        "id": 336120,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77co.jpg"
+      },
+      "name": "Keo and the Cosmic Crystals"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525597,
+    "date": 1700006400,
+    "game": {
+      "id": 198439,
+      "cover": {
+        "id": 313315,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6pr7.jpg"
+      },
+      "name": "American Arcadia"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527680,
+    "date": 1700006400,
+    "game": {
+      "id": 252357,
+      "cover": {
+        "id": 338251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78zv.jpg"
+      },
+      "name": "Lake: Season\u0027s Greetings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527681,
+    "date": 1700006400,
+    "game": {
+      "id": 252357,
+      "cover": {
+        "id": 338251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78zv.jpg"
+      },
+      "name": "Lake: Season\u0027s Greetings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527682,
+    "date": 1700006400,
+    "game": {
+      "id": 252357,
+      "cover": {
+        "id": 338251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78zv.jpg"
+      },
+      "name": "Lake: Season\u0027s Greetings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527683,
+    "date": 1700006400,
+    "game": {
+      "id": 252357,
+      "cover": {
+        "id": 338251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78zv.jpg"
+      },
+      "name": "Lake: Season\u0027s Greetings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527684,
+    "date": 1700006400,
+    "game": {
+      "id": 252357,
+      "cover": {
+        "id": 338251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78zv.jpg"
+      },
+      "name": "Lake: Season\u0027s Greetings"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 528923,
+    "date": 1700006400,
+    "game": {
+      "id": 272441,
+      "cover": {
+        "id": 338190,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78y6.jpg"
+      },
+      "name": "Zombies Rising Dawn"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530768,
+    "date": 1700006400,
+    "game": {
+      "id": 122666,
+      "cover": {
+        "id": 340691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7avn.jpg"
+      },
+      "name": "Teardown"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 530769,
+    "date": 1700006400,
+    "game": {
+      "id": 122666,
+      "cover": {
+        "id": 340691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7avn.jpg"
+      },
+      "name": "Teardown"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531421,
+    "date": 1700006400,
+    "game": {
+      "id": 273604,
+      "cover": {
+        "id": 339669,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7a39.jpg"
+      },
+      "name": "Red Head: To The Rescue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531721,
+    "date": 1700006400,
+    "game": {
+      "id": 216197,
+      "cover": {
+        "id": 340207,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ai7.jpg"
+      },
+      "name": "Wizordum"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531874,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531875,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531876,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531877,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531878,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531879,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531880,
+    "date": 1700006400,
+    "game": {
+      "id": 133896,
+      "cover": {
+        "id": 335459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co76ub.jpg"
+      },
+      "name": "The Last Faith"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531906,
+    "date": 1700006400,
+    "game": {
+      "id": 267832,
+      "cover": {
+        "id": 332059,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co747v.jpg"
+      },
+      "name": "Lily in Puzzle World"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486242,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486243,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486244,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486245,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486246,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 486247,
+    "date": 1700092800,
+    "game": {
+      "id": 254728,
+      "cover": {
+        "id": 311482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6oca.jpg"
+      },
+      "name": "Yohane the Parhelion: Blaze in the DeepBlue"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 502085,
+    "date": 1700092800,
+    "game": {
+      "id": 146699,
+      "cover": {
+        "id": 226315,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4umj.jpg"
+      },
+      "name": "Flashback 2"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 503166,
+    "date": 1700092800,
+    "game": {
+      "id": 119278,
+      "cover": {
+        "id": 248453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bph.jpg"
+      },
+      "name": "Small Saga"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 503167,
+    "date": 1700092800,
+    "game": {
+      "id": 119278,
+      "cover": {
+        "id": 248453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bph.jpg"
+      },
+      "name": "Small Saga"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 508660,
+    "date": 1700092800,
+    "game": {
+      "id": 142964,
+      "cover": {
+        "id": 130499,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2soz.jpg"
+      },
+      "name": "Minigame Madness"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 521208,
+    "date": 1700092800,
+    "game": {
+      "id": 172820,
+      "cover": {
+        "id": 229238,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4wvq.jpg"
+      },
+      "name": "Astlibra Revision"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523721,
+    "date": 1700092800,
+    "game": {
+      "id": 226729,
+      "cover": {
+        "id": 285693,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co64fx.jpg"
+      },
+      "name": "Prison City"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 524082,
+    "date": 1700092800,
+    "game": {
+      "id": 270502,
+      "cover": {
+        "id": 335858,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co775e.jpg"
+      },
+      "name": "Dredge: The Pale Reach"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 524848,
+    "date": 1700092800,
+    "game": {
+      "id": 251568,
+      "cover": {
+        "id": 308696,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m6w.jpg"
+      },
+      "name": "Assassin\u0027s Creed Nexus VR"
+    },
+    "m": 11,
+    "platform": {
+      "id": 386,
+      "name": "Meta Quest 2"
+    },
+    "y": 2023
+  },
+  {
+    "id": 524849,
+    "date": 1700092800,
+    "game": {
+      "id": 251568,
+      "cover": {
+        "id": 308696,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m6w.jpg"
+      },
+      "name": "Assassin\u0027s Creed Nexus VR"
+    },
+    "m": 11,
+    "platform": {
+      "id": 471,
+      "name": "Meta Quest 3"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526071,
+    "date": 1700092800,
+    "game": {
+      "id": 72767,
+      "cover": {
+        "id": 308849,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mb5.jpg"
+      },
+      "name": "Jagged Alliance 3"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 526072,
+    "date": 1700092800,
+    "game": {
+      "id": 72767,
+      "cover": {
+        "id": 308849,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6mb5.jpg"
+      },
+      "name": "Jagged Alliance 3"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527329,
+    "date": 1700092800,
+    "game": {
+      "id": 152196,
+      "cover": {
+        "id": 151932,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co398c.jpg"
+      },
+      "name": "Loddlenaut"
+    },
+    "m": 11,
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    },
+    "y": 2023
+  },
+  {
+    "id": 527330,
+    "date": 1700092800,
+    "game": {
+      "id": 152196,
+      "cover": {
+        "id": 151932,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co398c.jpg"
+      },
+      "name": "Loddlenaut"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531167,
+    "date": 1700092800,
+    "game": {
+      "id": 260221,
+      "cover": {
+        "id": 321743,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6w9b.jpg"
+      },
+      "name": "Smoots Pinball"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 531168,
+    "date": 1700092800,
+    "game": {
+      "id": 19479,
+      "cover": {
+        "id": 95150,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21f2.jpg"
+      },
+      "name": "On Rusty Trails"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 427266,
+    "date": 1700179200,
+    "game": {
+      "id": 166934,
+      "cover": {
+        "id": 222609,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4rrl.jpg"
+      },
+      "name": "Cyber War Apocalypse"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482297,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482298,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 482299,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 483325,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 483326,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 483327,
+    "date": 1700179200,
+    "game": {
+      "id": 252729,
+      "cover": {
+        "id": 308400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lyo.jpg"
+      },
+      "name": "Persona 5 Tactica"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 485123,
+    "date": 1700179200,
+    "game": {
+      "id": 254327,
+      "cover": {
+        "id": 310551,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nmf.jpg"
+      },
+      "name": "Super Mario RPG"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505608,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505609,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505611,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505612,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505613,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 505722,
+    "date": 1700179200,
+    "game": {
+      "id": 239385,
+      "cover": {
+        "id": 288983,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66zb.jpg"
+      },
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506024,
+    "date": 1700179200,
+    "game": {
+      "id": 250905,
+      "cover": {
+        "id": 305332,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jlg.jpg"
+      },
+      "name": "Warhammer Age of Sigmar: Realms of Ruin"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506025,
+    "date": 1700179200,
+    "game": {
+      "id": 250905,
+      "cover": {
+        "id": 305332,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jlg.jpg"
+      },
+      "name": "Warhammer Age of Sigmar: Realms of Ruin"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 506026,
+    "date": 1700179200,
+    "game": {
+      "id": 250905,
+      "cover": {
+        "id": 305332,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6jlg.jpg"
+      },
+      "name": "Warhammer Age of Sigmar: Realms of Ruin"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 516707,
+    "date": 1700179200,
+    "game": {
+      "id": 237301,
+      "cover": {
+        "id": 286804,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co65as.jpg"
+      },
+      "name": "Tales of Terrabanthis"
+    },
+    "m": 11,
+    "platform": {
+      "id": 163,
+      "name": "SteamVR"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517270,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517271,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517272,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517273,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517274,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 517275,
+    "date": 1700179200,
+    "game": {
+      "id": 257332,
+      "cover": {
+        "id": 331362,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73oi.jpg"
+      },
+      "name": "Bluey: The Videogame"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519716,
+    "date": 1700179200,
+    "game": {
+      "id": 267239,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Deluxe Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 519777,
+    "date": 1700179200,
+    "game": {
+      "id": 268549,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523866,
+    "date": 1700179200,
+    "game": {
+      "id": 270578,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523867,
+    "date": 1700179200,
+    "game": {
+      "id": 270578,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523868,
+    "date": 1700179200,
+    "game": {
+      "id": 270578,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523869,
+    "date": 1700179200,
+    "game": {
+      "id": 270578,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    },
+    "y": 2023
+  },
+  {
+    "id": 523870,
+    "date": 1700179200,
+    "game": {
+      "id": 270578,
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Collector\u0027s Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525344,
+    "date": 1700179200,
+    "game": {
+      "id": 270805,
+      "name": "Persona 5 Tactica: Digital Deluxe Edition"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525345,
+    "date": 1700179200,
+    "game": {
+      "id": 270806,
+      "cover": {
+        "id": 337819,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78nv.jpg"
+      },
+      "name": "Persona 5 Tactica: Picaro Summoning Pack + Raoul Persona"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
+  },
+  {
+    "id": 525346,
+    "date": 1700179200,
+    "game": {
+      "id": 270807,
+      "cover": {
+        "id": 337820,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co78nw.jpg"
+      },
+      "name": "Persona 5 Tactica: Repaint Your Heart Challenge Pack"
+    },
+    "m": 11,
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    },
+    "y": 2023
   }
 ]
